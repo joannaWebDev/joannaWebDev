@@ -1,8 +1,8 @@
 ### Hi there 🙋🏼
 
-I'm Joanna.
+<p>I'm Joanna.
 Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic, able to build a Web presence from the ground up -- from concept, navigation, layout and programming, to UI and SEO.
-Skilled at writing well-designed, testable and efficient code using current best practices in Web development. 
+Skilled at writing well-designed, testable and efficient code using current best practices in Web development.</p>
 
 - 💻 I’m currently working on 3 small personal projects.
 - 🎓 I’m currently learning JavaScript, React.
