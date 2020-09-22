@@ -23,7 +23,7 @@ Skilled at writing well-designed, testable and efficient code using current best
     <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
     </a></p>
   <p><a target="_blank" rel="noopener noreferrer" href="/topics/nodejs" title="Node.js">
-        <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26" height="20" class="d-block rounded-1" alt="nodejs logo">
+        <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26" style="max-width:100%;" alt="nodejs logo">
     </a>
   </p>
 </div>
