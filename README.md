@@ -20,22 +20,10 @@ Skilled at writing well-designed, testable and efficient code using current best
   <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;"></a></p>
   <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a></p>
   <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-    <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
-    </a></p>
-  <p><a target="_blank" rel="noopener noreferrer" href="/topics/nodejs" title="Node.js">
-        <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26" style="max-width:100%;" alt="nodejs logo">
-    </a>
-  </p>
-  <p>
-    <a target="_blank" rel="noopener noreferrer" href="/topics/bootstrap" title="Bootstrap">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20" style="max-width:100%;" alt="bootstrap logo">
-      </a>
-  </p>
-  <p>
-    <a target="_blank" rel="noopener noreferrer" href="/topics/php" title="PHP">
-        <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="20" style="max-width:100%;" alt="php logo">
-      </a>
-  </p>
+    <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;"></a></p>
+  <p><a target="_blank" rel="noopener noreferrer" href="/topics/nodejs" title="Node.js"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26" style="max-width:100%;" alt="nodejs logo"></a></p>
+  <p><a target="_blank" rel="noopener noreferrer" href="/topics/bootstrap" title="Bootstrap"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20" style="max-width:100%;" alt="bootstrap logo"></a></p>
+  <p><a target="_blank" rel="noopener noreferrer" href="/topics/php" title="PHP"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="20" style="max-width:100%;" alt="php logo"></a></p>
 </div>
 
 
