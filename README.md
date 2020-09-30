@@ -13,6 +13,11 @@ Skilled at writing well-designed, testable and efficient code using current best
   <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow">
   <img width="24" alt="Follow me on Twitter" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg" style="max-width:100%;"></a>&nbsp;
 </div>
+    <div>
+  <h3>Pojects<h3>
+  <a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="wordpress logo"></a>&nbsp;
+</div>
 <div>
   <h3>Languages and Tools:</h3>
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a></p>
