@@ -17,6 +17,9 @@ Skilled at writing well-designed, testable and efficient code using current best
   <h3>Projects<h3>
   <a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" class="d-block rounded-1 mr-3 flex-shrink-0" alt="wordpress logo"></a>&nbsp;
+  <a href="http://https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix" target="_blank">
+<img src="img/logo-Netflix.png" alt="Responsive image LOGO" class="img-fluid"></a>&nbsp;
+    
 </div>
 <div>
   <h3>Languages and Tools:</h3>
