@@ -1,13 +1,4 @@
 ### Hi there :octocat:
-
-<p>I'm Joanna.
-Exceptionally creative and dependable Entry Level Web Developer with a stellar customer service record and superb work ethic, able to build a Web presence from the ground up -- from concept, navigation, layout and programming, to UI and SEO.
-Skilled at writing well-designed, testable and efficient code using current best practices in Web development.</p>
-
-- 💻 I’m currently working on 2 small personal projects.
-- 🎓 I’m currently learning JavaScript, React.
-
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 	<h1 align="center"><a id="user-content--im-joanna" class="anchor" aria-hidden="true" href="#"<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> I'm Joanna!</h1>
 <p align="center"><em>Front-end developer<br></em></p>
@@ -18,6 +9,8 @@ Why this change? I am a person committed to what I do and consider myself to be 
 What do I need now? I would love to find my first opportunity as a developer, a team that allows me to learn from them. I am looking for stability and development within the same company that gives me an opportunity. I am looking for empathy, a good work environment and group enthusiasm for a project. I would like to become a successful front-end developer, creating sustainable websites with a design that is efficient and accessible.
 And in return? I am an active and proactive person, versatile, who has experience detecting errors and looking for solutions, used to changes and multitasking; that puts hope and desire in what she likes. I can put on effort, dedication and courage: everything I don't know or don't know how to do I can learn.<br>
 </p>
+- 💻 I’m currently working on 2 small personal projects.
+- 🎓 I’m currently learning JavaScript, React.
 <ul>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> always learning. &nbsp <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> always creating..</li>
 </ul>
