@@ -12,9 +12,9 @@ And in return? I am an active and proactive person, versatile, who has experienc
 <p>- 💻 I’m currently working on 2 small personal projects.<br>
 - 🎓 I’m currently learning JavaScript, React.</p>
 <hr>
-```
+
 ###Projects
-````html	
+
 <p>	  
 <a href="https://joannasmerea.com/" title="Portfolio" target="_blank" style="color:black;text-align:center;text-decoration:none;">PORTFOLIO</a>&nbsp; &nbsp;	  
  <a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank">
@@ -31,11 +31,11 @@ And in return? I am an active and proactive person, versatile, who has experienc
 &nbsp; &nbsp;<a target="_blank" rel="noopener noreferrer" href="/topics/bootstrap" title="Bootstrap"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20" height="25" style="max-width:100%;" alt="bootstrap logo"></a>&nbsp; &nbsp;<a target="_blank" rel="noopener noreferrer" href="/topics/php" title="PHP"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="20" height="30" style="max-width:100%;" alt="PHP logo"></a>
 </p>
 <hr>
-```
+
  <!-- <img height="180em" src="https://camo.githubusercontent.com/8fb2bf6dd33e052b391acb96fbd2ba5775082977/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d64656c616f7361697a267468656d653d6275656679266c61796f75743d636f6d70616374"  style="max-width:100%;">
 <hr>-->
 ###Let´s talk!
-```html
+
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
   <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp; 
   <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow">
