@@ -1,10 +1,10 @@
 ### Hi there :octocat:
-# I'm Joanna!
-## *Front-end developer*
+<h1 align='center'>I'm Joanna!</h1>
+<h2 align='center' style='text-transform:italic;'>Front-end developer</h2>
 
+---
 A little more about me…
 
-<img align="right" src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width:50px style="margin:5%">
 const joanna = {
     
         pronouns: "She" | "Her",
