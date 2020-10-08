@@ -1,7 +1,7 @@
 ### Hi there :octocat:
 # I'm Joanna!
 ## Front-end developer
-
+```html
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <!--<p><a target="_blank" rel="noopener noreferrer" href="#6"><img align="right" src="https://camo.githubusercontent.com/ec18f0210324c21c3ef3dbd060d9b635340048ed/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f34613935306131653232316439336536353430343765636565373131616635612f74656e6f722e6769663f6974656d69643d38313035303236" style="max-width:100%;"></a></p>-->
 <p>After some years of training and working as an administrative assistant, I decided it was time to start my career in another sector, full of learning possibilities and not that different: web development. Language, layout, analysis and solution of errors, precision, constancy and a long time of dedication. Very similar, right?!
@@ -12,8 +12,9 @@ And in return? I am an active and proactive person, versatile, who has experienc
 <p>- 💻 I’m currently working on 2 small personal projects.<br>
 - 🎓 I’m currently learning JavaScript, React.</p>
 <hr>
-<h3>Projects<h3>
-	
+``
+###Projects
+````html	
 <p>	  
 <a href="https://joannasmerea.com/" title="Portfolio" target="_blank" style="color:black;text-align:center;text-decoration:none;">PORTFOLIO</a>&nbsp; &nbsp;	  
  <a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank">
@@ -30,11 +31,14 @@ And in return? I am an active and proactive person, versatile, who has experienc
 &nbsp; &nbsp;<a target="_blank" rel="noopener noreferrer" href="/topics/bootstrap" title="Bootstrap"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20" height="25" style="max-width:100%;" alt="bootstrap logo"></a>&nbsp; &nbsp;<a target="_blank" rel="noopener noreferrer" href="/topics/php" title="PHP"><img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="20" height="30" style="max-width:100%;" alt="PHP logo"></a>
 </p>
 <hr>
+```
  <!-- <img height="180em" src="https://camo.githubusercontent.com/8fb2bf6dd33e052b391acb96fbd2ba5775082977/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d64656c616f7361697a267468656d653d6275656679266c61796f75743d636f6d70616374"  style="max-width:100%;">
 <hr>-->
-<h3><a id="user-content-lets-talk-" class="anchor" aria-hidden="true" href="#lets-talk-">Let´s talk!</a></h3>
+###Let´s talk!
+```html
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
   <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp; 
   <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow">
   <img width="24" alt="Follow me on Twitter" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg" style="max-width:100%;"></a>&nbsp;&nbsp;
  <a href="mailto:joannasmerea@gmail.com"><img src="https://camo.githubusercontent.com/bdeba5f9031848492266666b3aefa549d94ea1ad/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f64746166616c6f6e736f2f616e64726f69642d6c6f6c6c69706f702f32342f476d61696c2d69636f6e2e706e67" alt="Gmail" style="max-width:100%;"></a></p>
+```
