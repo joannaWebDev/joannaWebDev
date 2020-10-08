@@ -1,9 +1,9 @@
-### Hi there :octocat:
-<h1 align='center'>I'm Joanna!</h1>
-<h2 align='center' style='text-transform:italic;'>Front-end developer</h2>
+<h1 align='center'>Hello, I'm Joanna!</h1>
+<h2 align='center' style='text-transform:italic;'>Front-end developer &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 ---
 *A little more about me…*
+
 ```js
 const joanna = {   
         pronouns: "She" | "Her",
@@ -27,7 +27,7 @@ const joanna = {
 ______
 
 ## Projects
-[joanna]: https://joannasmerea.com/
+[joanna]: https://joannasmerea.com/ 'Professional profile'
 	 
 [:octocat:][joanna] &nbsp; &nbsp;
 <a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" alt="wordpress logo"></a>&nbsp;&nbsp;&nbsp;
