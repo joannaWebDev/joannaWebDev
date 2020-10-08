@@ -11,11 +11,11 @@ And in return? I am an active and proactive person, versatile, who has experienc
 </p>
 <p>- 💻 I’m currently working on 2 small personal projects.<br>
 - 🎓 I’m currently learning JavaScript, React.</p>
-
 <hr>
 <h3>Projects<h3>
+	
 <p>	  
-<a href="https://joannasmerea.com/" title="Portfolio" target="_blank" style="color:black;text-align:center;text-decoration:none;"><span style='font-size:100px;'>&#9819;</span>JS</a>	  
+<a href="https://joannasmerea.com/" title="Portfolio" target="_blank" style="color:black;text-align:center;text-decoration:none;">PORTFOLIO</a>	  
  <a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" class="d-block rounded-1 mr-3 flex-shrink-0" alt="wordpress logo"></a>&nbsp;
  <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix" target="_blank">
