@@ -1,7 +1,8 @@
 ### Hi there :octocat:
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
 # I'm Joanna!
-<p align="center"><em>Front-end developer<br></em></p>
+## Front-end developer
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
 <!--<p><a target="_blank" rel="noopener noreferrer" href="#6"><img align="right" src="https://camo.githubusercontent.com/ec18f0210324c21c3ef3dbd060d9b635340048ed/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f34613935306131653232316439336536353430343765636565373131616635612f74656e6f722e6769663f6974656d69643d38313035303236" style="max-width:100%;"></a></p>-->
 <p>After some years of training and working as an administrative assistant, I decided it was time to start my career in another sector, full of learning possibilities and not that different: web development. Language, layout, analysis and solution of errors, precision, constancy and a long time of dedication. Very similar, right?!
 Why this change? I am a person committed to what I do and consider myself to be very versatile. I like to feel that I grow personally and professionally each day and there came a time when I felt that I was not going to be able to advance in my work. On the other hand, I have always been passionate about technologies and I discovered that I can spend hours and hours in front of a computer, fighting with lines of code, and be happy (also suffer, let’s be honest, but I already knew that before).<br></p>
