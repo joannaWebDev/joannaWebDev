@@ -1,7 +1,7 @@
 ### Hi there :octocat:
 # I'm Joanna!
 ## Front-end developer
-```html
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <!--<p><a target="_blank" rel="noopener noreferrer" href="#6"><img align="right" src="https://camo.githubusercontent.com/ec18f0210324c21c3ef3dbd060d9b635340048ed/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f696d616765732f34613935306131653232316439336536353430343765636565373131616635612f74656e6f722e6769663f6974656d69643d38313035303236" style="max-width:100%;"></a></p>-->
 <p>After some years of training and working as an administrative assistant, I decided it was time to start my career in another sector, full of learning possibilities and not that different: web development. Language, layout, analysis and solution of errors, precision, constancy and a long time of dedication. Very similar, right?!
