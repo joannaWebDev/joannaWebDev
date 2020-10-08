@@ -9,11 +9,9 @@ Why this change? I am a person committed to what I do and consider myself to be 
 What do I need now? I would love to find my first opportunity as a developer, a team that allows me to learn from them. I am looking for stability and development within the same company that gives me an opportunity. I am looking for empathy, a good work environment and group enthusiasm for a project. I would like to become a successful front-end developer, creating sustainable websites with a design that is efficient and accessible.
 And in return? I am an active and proactive person, versatile, who has experience detecting errors and looking for solutions, used to changes and multitasking; that puts hope and desire in what she likes. I can put on effort, dedication and courage: everything I don't know or don't know how to do I can learn.<br>
 </p>
-- 💻 I’m currently working on 2 small personal projects.
-- 🎓 I’m currently learning JavaScript, React.
-<ul>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> always learning. &nbsp <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> always creating..</li>
-</ul>
+<p>- 💻 I’m currently working on 2 small personal projects.<br>
+- 🎓 I’m currently learning JavaScript, React.</p>
+
 <hr>
 <h3>Projects<h3>
 <p>	  
