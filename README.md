@@ -2,24 +2,44 @@
 # I'm Joanna!
 ## *Front-end developer*
 
-After some years of training and working as an administrative assistant, I decided it was time to start my career in another sector, full of learning possibilities and not that different: web development. Language, layout, analysis and solution of errors, precision, constancy and a long time of dedication. Very similar, right?!
-Why this change? I am a person committed to what I do and consider myself to be very versatile. I like to feel that I grow personally and professionally each day and there came a time when I felt that I was not going to be able to advance in my work. On the other hand, I have always been passionate about technologies and I discovered that I can spend hours and hours in front of a computer, fighting with lines of code, and be happy (also suffer, let’s be honest, but I already knew that before).
 
-What do I need now? I would love to **find my first opportunity as a developer**, a team that allows me to learn from them. I am looking for stability and development within the same company that gives me an opportunity. I am looking for empathy, a good work environment and group enthusiasm for a project. I would like to become a successful front-end developer, creating sustainable websites with a design that is efficient and accessible.
-And in return? I am an active and proactive person, versatile, who has experience detecting errors and looking for solutions, used to changes and multitasking; that puts hope and desire in what she likes. I can put on effort, dedication and courage: everything I don't know or don't know how to do I can learn.
+Twitter Follow Linkedin: thaianebraga
 
-- 💻 I’m currently working on 2 small personal projects.
+A little more about me…
 
-- 🎓 I’m currently learning **JavaScript**, **React**.
+const joanna = {
+    
+        pronouns: "She" | "Her",
+        code: ["Javascript", "HTML5 & CSS3", "php"],
+        askMeAbout: ["web dev", "tech", "app dev", "photography"],
+        technologies: {
+            frontEnd: {
+                js: ["React"],
+                css: ["scss", "bootstrap"]
+            },
+            backEnd: {
+                js: ["node"],
+            },
+            databases: ["MySql"],
+            misc: ["Firebase", "php"]
+        },
+        currentProject: "I am developing an interactive blues website",
+        funFact: "There are two ways to write error-free programs; only the third one works"
+    };
+
+
+ I love connecting with different people so feel free to reach out! 😊
+
+
 ______
 
 ## Projects
 [joanna]: https://joannasmerea.com/
 	 
 [PORTFOLIO][joanna] &nbsp; &nbsp;
-<a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" class="d-block rounded-1 mr-3 flex-shrink-0" alt="wordpress logo"></a>&nbsp;&nbsp;&nbsp;
+<a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" alt="wordpress logo"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix" target="_blank">
-<img src="https://i.ibb.co/r5krrdz/logo.png" alt=""  width="44"  class="d-block rounded-1 mr-3 flex-shrink-0"/></a>
+<img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="44" height="20"/></a>
 
 ***
 
