@@ -12,7 +12,7 @@ And in return? I am an active and proactive person, versatile, who has experienc
 <p>- 💻 I’m currently working on 2 small personal projects.<br>
 - 🎓 I’m currently learning JavaScript, React.</p>
 <hr>
-``
+```
 ###Projects
 ````html	
 <p>	  
