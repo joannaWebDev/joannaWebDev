@@ -34,11 +34,28 @@ And in return? I am an active and proactive person, versatile, who has experienc
 <a align="center" href="https://github.com/joannaWebDev">
   <img height="180em" src="https://camo.githubusercontent.com/8cf1c5531d067af3c10d5cc64089934411ff81da/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d64656c616f7361697a267468656d653d62756566792673686f775f69636f6e733d74727565" style="max-width:100%;">-->
   <img height="180em" src="https://camo.githubusercontent.com/8fb2bf6dd33e052b391acb96fbd2ba5775082977/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d64656c616f7361697a267468656d653d6275656679266c61796f75743d636f6d70616374"  style="max-width:100%;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="350" height="140" viewBox="0 0 350 140" fill="none">
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #7957d5;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #363636 }
+  
+
+          
+        </style>
+
+        undefined
+
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="349" fill="#ffffff" stroke-opacity="1"/>
 </a>
 <hr>
 <h3><a id="user-content-lets-talk-" class="anchor" aria-hidden="true" href="#lets-talk-">Let´s talk!</a></h3>
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
-  <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;
+  <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp; 
   <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow">
-  <img width="24" alt="Follow me on Twitter" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg" style="max-width:100%;"></a>&nbsp;
+  <img width="24" alt="Follow me on Twitter" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg" style="max-width:100%;"></a>&nbsp;&nbsp;
  <a href="mailto:joannasmerea@gmail.com"><img src="https://camo.githubusercontent.com/bdeba5f9031848492266666b3aefa549d94ea1ad/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f64746166616c6f6e736f2f616e64726f69642d6c6f6c6c69706f702f32342f476d61696c2d69636f6e2e706e67" alt="Gmail" style="max-width:100%;"></a></p>
