@@ -4,9 +4,8 @@
 
 ---
 A little more about me…
-
-const joanna = {
-    
+```js
+const joanna = {   
         pronouns: "She" | "Her",
         code: ["Javascript", "HTML5 & CSS3", "php"],
         askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -24,11 +23,7 @@ const joanna = {
         currentProject: "I am developing an interactive blues website",
         funFact: "There are two ways to write error-free programs; only the third one works"
     };
-
-
- I love connecting with different people so feel free to reach out! 😊
-
-
+```
 ______
 
 ## Projects
@@ -51,7 +46,7 @@ ______
 
 ---
 
-## Let´s talk!
+## I love connecting with different people so feel free to reach out! 
 
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
   <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
