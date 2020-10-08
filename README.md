@@ -39,6 +39,7 @@ ______
 ---
 ## Tech Stack
 
+
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;<br>
@@ -59,8 +60,7 @@ ___
 ## I love connecting with different people so feel free to reach out! 
 
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
-  <img width="24" alt="Follow me on LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow">
-  <img width="24" alt="Follow me on Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg " style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:joannasmerea@gmail.com">
- <img width="24" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg " alt="Gmail" style="max-width:100%;"></a>
+  <img width="24" alt="Follow me on Twitter" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:joannasmerea@gmail.com"><img src="https://camo.githubusercontent.com/bdeba5f9031848492266666b3aefa549d94ea1ad/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f64746166616c6f6e736f2f616e64726f69642d6c6f6c6c69706f702f32342f476d61696c2d69636f6e2e706e67" alt="Gmail" style="max-width:100%;"></a></p>
