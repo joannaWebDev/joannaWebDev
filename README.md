@@ -2,11 +2,9 @@
 # I'm Joanna!
 ## *Front-end developer*
 
-
-Twitter Follow Linkedin: thaianebraga
-
 A little more about me…
 
+<img align="right" src="https://media.giphy.com/media/xT39CV47COkGPZO3HG/giphy.gif" width:50px style="margin:5%">
 const joanna = {
     
         pronouns: "She" | "Her",
