@@ -8,7 +8,7 @@
 const joanna = {   
         pronouns: "She" | "Her",
         code: ["Javascript", "HTML5 & CSS3", "php"],
-        askMeAbout: ["web dev", "tech", "photography"],
+        askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
             frontEnd: {
                 js: ["React"],
@@ -21,7 +21,8 @@ const joanna = {
             misc: ["Firebase", "php"]
         },
         currentProject: "I am developing an interactive blues website",
-        funFact: "There are two ways to write error-free programs; only the third one works"
+        funFact: "There are two ways to write error-free programs; only the third one works",
+        availableForHire: true
     };
 ```
 ______
@@ -29,23 +30,35 @@ ______
 ## Projects
 [joanna]: https://joannasmerea.com/ 'Professional profile'
 	 
-[:octocat:][joanna] &nbsp; &nbsp;
-<a href="http://espaivisual.cat/2020/ims/wp/" title="Wordpress" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" alt="wordpress logo"></a>&nbsp;&nbsp;&nbsp;
- <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix" target="_blank">
+[:octocat:](https://joannasmerea.com/ 'Professional profile') &nbsp; &nbsp;
+<a href="http://espaivisual.cat/2020/ims/wp/" title="Dojo Girl blog" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="24" height="24" alt="wordpress logo"></a>&nbsp;&nbsp;&nbsp;
+ <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage" target="_blank">
 <img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="44" height="20"/></a>
 
 ***
 
-## Languages and Tools
-
-<img  alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">&nbsp; &nbsp;<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">&nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34" height="34" class="d-block rounded-1 mr-3 flex-shrink-0" alt="SASS logo">&nbsp; &nbsp;<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">&nbsp; &nbsp;
-<img  alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width:100%;">
-&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26" style="max-width:100%;" alt="nodejs logo">&nbsp;&nbsp;<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
-&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="20" height="25" style="max-width:100%;" alt="bootstrap logo">&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="20" height="30" style="max-width:100%;" alt="PHP logo">
-
 ---
+## Tech Stack
 
+
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
+<img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React">&nbsp;
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;<br>
+<img src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34" height="34" class="d-block rounded-1 mr-3 flex-shrink-0" alt="SASS logo">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+<img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
+<img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign">
+<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width="20" height="30" style="max-width:100%;" alt="PHP logo">
+
+***
+___
 ## I love connecting with different people so feel free to reach out! 
 
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
