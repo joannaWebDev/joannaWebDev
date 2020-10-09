@@ -6,7 +6,7 @@
 
 ```js
 const joanna = {   
-        pronouns: "She" | "Her",
+        pronouns: "She" | "They",
         code: ["Javascript", "HTML5 & CSS3", "php"],
         askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
