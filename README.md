@@ -7,12 +7,11 @@
 ```js
 const joanna = {   
         pronouns: "She" | "They",
-        code: ["Javascript", "HTML5 & CSS3", "php"],
         askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
             frontEnd: {
-                js: ["React"],
-                css: ["scss", "bootstrap"]
+                js: ["JavaScript","React"],
+                css: ["css3", "scss", "bootstrap"]
             },
             backEnd: {
                 js: ["node"],
@@ -59,8 +58,5 @@ ______
 ___
 ## I love connecting with different people so feel free to reach out! 
 
-<a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow">
-  <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow">
-  <img width="24" alt="Follow me on Twitter" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg" style="max-width:100%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:joannasmerea@gmail.com"><img src="https://camo.githubusercontent.com/bdeba5f9031848492266666b3aefa549d94ea1ad/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f64746166616c6f6e736f2f616e64726f69642d6c6f6c6c69706f702f32342f476d61696c2d69636f6e2e706e67" alt="Gmail" style="max-width:100%;"></a>
+<p style=display:inline;"><a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow" target="_blank> <i class="fa fa-linkedin"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow" target="_blank>
+ <i class="fa fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:joannasmerea@gmail.com"><i class="fa fa-google"></i></a></p>
