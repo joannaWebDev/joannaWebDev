@@ -56,9 +56,9 @@ ______
 
 ***
 ___
-## I love connecting with different people so feel free to reach out! 
+<!--## I love connecting with different people so feel free to reach out! 
 
 <p style=display:inline;">
 <a href="https://www.linkedin.com/in/joannasmerea/" title="Follow me on LinkedIn" rel="nofollow" target="_blank> <i class="fa fa-linkedin" aria-hidden="true"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/joannasmerea" title="Follow me on Twitter" rel="nofollow" target="_blank><i class="fa fa-twitter" aria-hidden="true"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:joannasmerea@gmail.com"><i class="fa fa-google" aria-hidden="true"></i></a></p>
+<a href="mailto:joannasmerea@gmail.com"><i class="fa fa-google" aria-hidden="true"></i></a></p>-->
