@@ -54,6 +54,11 @@ ______
 <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
 <img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign">
 
+
+## GitHub Pages
+Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/
+
+
 ***
 ___
 <!--## I love connecting with different people so feel free to reach out! 
