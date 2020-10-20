@@ -55,6 +55,7 @@ ______
 <img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign">
 
 
+______
 ## GitHub Pages
 Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/
 
