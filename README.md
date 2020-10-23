@@ -59,7 +59,6 @@ ______
 ## GitHub Pages
 <p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 <p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
-<p>World_Weather_app https://joannawebdev.github.io/World_Weather_App/ </p>
 
 
 ***
