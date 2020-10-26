@@ -57,6 +57,7 @@ ______
 
 ______
 ## GitHub Pages
+<p>Pokedex https://joannawebdev.github.io/Pokedex/ </p>
 <p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 <p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
 
