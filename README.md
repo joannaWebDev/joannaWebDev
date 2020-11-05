@@ -29,9 +29,10 @@ ______
 ## Projects
 <a href="https://joannasmerea.com" title="Professional project" target="_blank"><img src="https://joannasmerea.com/img/logo-min.png"  alt="Joanna"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank"><img src="https://joannawebdev.github.io/balmes-innova-desarrollo-web/img/joanna.png" width="50" height="50" alt="Balmes Innova curso desarrollo web"></a>&nbsp;&nbsp;&nbsp;
-<a href="http://espaivisual.cat/2020/ims/wp/" title="Dojo Girl blog" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="50" height="50" alt="wordpress logo"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage" target="_blank">
-<img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="30"/></a>
+<img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="http://espaivisual.cat/2020/ims/wp/" title="Dojo Girl blog" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" width="50" height="50" alt="wordpress logo"></a>
+
 
 ***
 ---
