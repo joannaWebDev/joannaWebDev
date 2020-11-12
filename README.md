@@ -29,7 +29,7 @@ ______
 ## Projects
 <a href="https://joannasmerea.com" title="Professional project" target="_blank"><img src="https://joannasmerea.com/img/logo-min.png"  alt="Joanna"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank"><img src="https://joannawebdev.github.io/balmes-innova-desarrollo-web/img/joanna.png" width="50" height="50" alt="Balmes Innova curso desarrollo web"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://joannasmerea.com" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="100" height="60"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="100" height="60"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 <img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="30"/></a>&nbsp;&nbsp;&nbsp;
 
@@ -58,9 +58,10 @@ ______
 ______
 ## GitHub Pages
 <p>Balmes Innova Curso desarrollo web https://joannawebdev.github.io/balmes-innova-desarrollo-web/ </p>
-<p>Pokedex https://joannawebdev.github.io/Pokedex/ </p>
+<p>Fashion blog with React https://joannawebdev.github.io/fashion-blog-react/ </p>
 <p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 <p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
+
 
 
 ***
