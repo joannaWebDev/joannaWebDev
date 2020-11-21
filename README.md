@@ -58,6 +58,7 @@ ______
 ______
 ## GitHub Pages
 <p>Balmes Innova Curso desarrollo web https://joannawebdev.github.io/balmes-innova-desarrollo-web/ </p>
+<p>James Brown - React- https://joannawebdev.github.io/james-brown/ </p> 
 <p>Fashion blog with React https://joannawebdev.github.io/fashion-blog-react/ </p>
 <p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 <p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
