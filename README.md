@@ -30,13 +30,9 @@ ______
 <a href="https://joannasmerea.com" title="Professional project" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQPDPtUAM9wQ/profile-displayphoto-shrink_400_400/0/1600803408136?e=1613606400&v=beta&t=Q9AnO55IQR-z5NedUh0E-y2_G6-NlaeYLGWfxQM6w8k" alt="Joanna" width="100" height="90"></a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank"><img src="https://joannawebdev.github.io/balmes-innova-desarrollo-web/img/joanna.png" width="100" height="90" alt="Balmes Innova curso desarrollo web"></a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank"><img src="https://james-brown-react.netlify.app/img/james-brown.jpg" width="100" height="90" alt="James Brown"></a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="100" height="90"></a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">Weather App with React & PWA</a>&nbsp;&nbsp;&nbsp;
-
  <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 <img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="80" height="60"/></a>&nbsp;&nbsp;&nbsp;
 
