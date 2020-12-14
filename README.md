@@ -16,8 +16,7 @@ const joanna = {
             backEnd: {
                 js: ["node"],
             },
-            databases: ["MySql"],
-            misc: ["Firebase", "php"]
+            databases: ["MySql", "PostgreSQL"]
         },
         currentProject: "I am developing an interactive blues website",
         funFact: "There are two ways to write error-free programs; only the third one works",
@@ -27,8 +26,7 @@ const joanna = {
 ______
 
 ## Projects
-<a href="https://joannasmerea.com" title="Professional project" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQPDPtUAM9wQ/profile-displayphoto-shrink_400_400/0/1600803408136?e=1613606400&v=beta&t=Q9AnO55IQR-z5NedUh0E-y2_G6-NlaeYLGWfxQM6w8k" alt="Joanna" width="100" height="90"></a>&nbsp;&nbsp;&nbsp;
-
+<a href="https://joannasmerea.com" title="Professional portfolio" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQPDPtUAM9wQ/profile-displayphoto-shrink_400_400/0/1600803408136?e=1613606400&v=beta&t=Q9AnO55IQR-z5NedUh0E-y2_G6-NlaeYLGWfxQM6w8k" alt="Joanna" width="100" height="90"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank"><img src="https://joannawebdev.github.io/balmes-innova-desarrollo-web/img/joanna.png" width="100" height="90" alt="Balmes Innova curso desarrollo web"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank"><img src="https://james-brown-react.netlify.app/img/james-brown.jpg" width="100" height="90" alt="James Brown"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="100" height="90"></a>&nbsp;&nbsp;&nbsp;
@@ -48,10 +46,13 @@ ______
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34" height="34" class="d-block rounded-1 mr-3 flex-shrink-0" alt="SASS logo">&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
+
+<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"><br>
+<img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
 <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
 <img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign">
