@@ -64,6 +64,7 @@ ______
 <p>Fashion blog with React https://joannawebdev.github.io/fashion-blog-react/ </p>
 <p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 <p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
+<p>Happy Holidays https://joannawebdev.github.io/happy-holidays-2020/</p>
 
 
 ______
