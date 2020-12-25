@@ -10,14 +10,14 @@ const joanna = {
         askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
             frontEnd: {
-                js: ["JavaScript","React", "jQuery"],
+                js: ["JavaScript", "React", "jQuery"],
                 css: ["css3", "scss", "bootstrap"],
-                html5
+                html5,
             },
             backEnd: {
                 js: ["Node", "Express"],
             },
-            databases: ["MySql", "PostgreSQL"]
+            databases: ["PostgreSQL", "MySql" ]
         },
         currentProject: "I am developing an interactive blues website",
         funFact: "There are two ways to write error-free programs; only the third one works",
