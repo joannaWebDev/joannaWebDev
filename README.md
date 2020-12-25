@@ -25,7 +25,7 @@ const joanna = {
     };
 ```
 ______
-## Learning path 💡
+## Learning path 🏆
 ### On-going courses
 * <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a>
 * <a href="https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/">Creando un Spotify con React</a>
