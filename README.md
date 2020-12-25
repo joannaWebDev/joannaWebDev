@@ -12,10 +12,10 @@ const joanna = {
             frontEnd: {
                 js: ["JavaScript", "React", "jQuery"],
                 css: ["css3", "scss", "bootstrap"],
-                html5,
+                html5
             },
             backEnd: {
-                js: ["Node", "Express"],
+                js: ["Node", "Express"]
             },
             databases: ["PostgreSQL", "MySql" ]
         },
