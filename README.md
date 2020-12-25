@@ -5,16 +5,17 @@
 *A little more about me…*
 
 ```js
-let joanna = {   
+const joanna = {   
         pronouns: "She" | "They",
         askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
             frontEnd: {
-                js: ["JavaScript","React"],
+                js: ["JavaScript","React", "jQuery"],
                 css: ["css3", "scss", "bootstrap"]
+                html5
             },
             backEnd: {
-                js: ["node"],
+                js: ["Node", "Express"],
             },
             databases: ["MySql", "PostgreSQL"]
         },
