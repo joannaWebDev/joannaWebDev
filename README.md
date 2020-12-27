@@ -11,8 +11,7 @@ const joanna = {
         technologies: {
             frontEnd: {
                 js: ["JavaScript", "React", "jQuery"],
-                css: ["css3", "scss", "bootstrap"],
-                html5
+                css: ["css3", "scss", "bootstrap"]
             },
             backEnd: {
                 js: ["Node", "Express"]
