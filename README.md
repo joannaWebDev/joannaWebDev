@@ -98,7 +98,7 @@ ______
 ______
 ## **Netlify Pages**
 <p>James Brown, portfolio website with React https://james-brown-react.netlify.app/ </p>
-<p>Psocólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
+<p>Psicólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
 <p>Weather App with React and PWA, https://weather-app-react-and-pwa.netlify.app/</p>
 <p>B12Send, https://be12send.netlify.app/</p>
 
