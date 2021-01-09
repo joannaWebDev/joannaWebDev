@@ -34,8 +34,9 @@ const joanna = {
 <p>Online portfolio, built with ReactJS, showing how components can be used to build a friendly user experience.
 In the Portfolio page you can find a photo gallery with data fetched from the Pixabay API and in the Repertoire page a shopping cart, for which I used React Hooks. &#9758; <a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank"><img src="https://james-brown-react.netlify.app/img/james-brown.jpg" width="50" height="50" alt="James Brown"></a></p>&nbsp;&nbsp;&nbsp;
 
-<p>Starting from scratch, built my first blog using ReactJS with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">🌞</a></p>&nbsp;&nbsp;&nbsp;
+<p>Starting from scratch, built my first blog using ReactJS with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="50" height="50"></a></p>&nbsp;&nbsp;&nbsp;
+        
+<p>Weather App with React & PWA &#9758; <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">🌞</a></p>&nbsp;&nbsp;&nbsp;
 
 <p>Netflix homepage built entirely with Bootstrap. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 <img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="40"/></a></p>&nbsp;&nbsp;&nbsp;
