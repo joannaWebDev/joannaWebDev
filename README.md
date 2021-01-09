@@ -52,9 +52,12 @@ ______
 <p>Psicólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
 <p>Weather App with React and PWA, https://weather-app-react-and-pwa.netlify.app/</p>
 ***
-## **Tech Stack**
+
 
 ______
+## **Tech Stack**
+
+
 ### **FrontEnd**
 
 * Languages <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
