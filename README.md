@@ -47,7 +47,6 @@ ______
 ______
 ## **Netlify Pages**
 <p>Psicólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
-<p>Weather App with React and PWA, https://weather-app-react-and-pwa.netlify.app/</p>
 
 ______
 ## **Tech Stack**
