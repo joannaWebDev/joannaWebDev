@@ -46,6 +46,21 @@ ______
 <img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="40"/></a>&nbsp;&nbsp;&nbsp;
 
 
+
+______
+## **GitHub Pages**
+<p>Balmes Innova Curso desarrollo web https://joannawebdev.github.io/balmes-innova-desarrollo-web/ </p>
+<p>Fashion blog with React https://joannawebdev.github.io/fashion-blog-react/ </p>
+<p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
+<p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
+<p>Happy Holidays https://joannawebdev.github.io/happy-holidays-2020/</p>
+
+
+______
+## **Netlify Pages**
+<p>James Brown, portfolio website with React https://james-brown-react.netlify.app/ </p>
+<p>Psicólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
+<p>Weather App with React and PWA, https://weather-app-react-and-pwa.netlify.app/</p>
 ***
 ## **Tech Stack**
 
@@ -86,20 +101,7 @@ ______
 <p><a href="https://youtu.be/M5QY2_8704o" rel="nofollow"><img src="https://camo.githubusercontent.com/114599f102866afdf7625dbd3362fa19b82e74d7746a49716fc8879df93b5077/68747470733a2f2f6e6f772d706c6179696e672d636f6465737461636b722e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="codeSTACKr Spotify Playing" width="350" data-canonical-src="https://now-playing-codestackr.vercel.app/api/spotify-playing" style="max-width:100%;"></a></p>
 
 
-______
-## **GitHub Pages**
-<p>Balmes Innova Curso desarrollo web https://joannawebdev.github.io/balmes-innova-desarrollo-web/ </p>
-<p>Fashion blog with React https://joannawebdev.github.io/fashion-blog-react/ </p>
-<p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
-<p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
-<p>Happy Holidays https://joannawebdev.github.io/happy-holidays-2020/</p>
 
-
-______
-## **Netlify Pages**
-<p>James Brown, portfolio website with React https://james-brown-react.netlify.app/ </p>
-<p>Psicólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
-<p>Weather App with React and PWA, https://weather-app-react-and-pwa.netlify.app/</p>
 
 
 
