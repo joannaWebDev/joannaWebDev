@@ -39,8 +39,6 @@ https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
 
 ______
 ## **GitHub Pages**
-<p>Balmes Innova Curso desarrollo web https://joannawebdev.github.io/balmes-innova-desarrollo-web/ </p>
-<p>Fashion blog with React https://joannawebdev.github.io/fashion-blog-react/ </p>
 <p>Canada Sports Betting https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 <p>Weather_app https://joannawebdev.github.io/Weather_App/</p>
 <p>Happy Holidays https://joannawebdev.github.io/happy-holidays-2020/</p>
@@ -48,7 +46,6 @@ ______
 
 ______
 ## **Netlify Pages**
-<p>James Brown, portfolio website with React https://james-brown-react.netlify.app/ </p>
 <p>Psicólogos de calle with React https://psicologxs-de-calle.netlify.app/ </p>
 <p>Weather App with React and PWA, https://weather-app-react-and-pwa.netlify.app/</p>
 
