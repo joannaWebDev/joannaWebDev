@@ -23,17 +23,7 @@ const joanna = {
         availableForHire: true
     };
 ```
-______
-## Learning path 🏆
-### On-going courses
-* <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a>
-* <a href="https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/">Spotify clone with React</a>
 
-
-### Finished courses
-* <a href="https://www.balmesinnova.com/cursos/confeccion-publicacion-paginas-web/">Web Development Professional Certificate at Balmes Innova - 2020</a>
-* <a href="https://www.udemy.com/course/the-complete-javascript-course/"> The complete JavaScript Course 2020 -From Zero to expert at Udemy </a>
-* <a href="https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/">JIRA with real-world examples</a>
 
 
 ## Projects
@@ -96,6 +86,20 @@ ______
 * Proficient in communicating with team members, bosses, and clients
 * Good interpersonal skills
 * Teamwork
+______
+
+______
+## Learning path 🏆
+### On-going courses
+* <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a>
+* <a href="https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/">Spotify clone with React</a>
+
+
+### Finished courses
+* <a href="https://www.balmesinnova.com/cursos/confeccion-publicacion-paginas-web/">Web Development Professional Certificate at Balmes Innova - 2020</a>
+* <a href="https://www.udemy.com/course/the-complete-javascript-course/"> The complete JavaScript Course 2020 -From Zero to expert at Udemy </a>
+* <a href="https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/">JIRA with real-world examples</a>
+
 ______
 ## **Music for programming?** 🎧
 <p><a href="https://youtu.be/M5QY2_8704o" rel="nofollow"><img src="https://camo.githubusercontent.com/114599f102866afdf7625dbd3362fa19b82e74d7746a49716fc8879df93b5077/68747470733a2f2f6e6f772d706c6179696e672d636f6465737461636b722e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="codeSTACKr Spotify Playing" width="350" data-canonical-src="https://now-playing-codestackr.vercel.app/api/spotify-playing" style="max-width:100%;"></a></p>
