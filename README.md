@@ -54,7 +54,8 @@ ______
 ***
 ## **Tech Stack**
 
-#### **FrontEnd**
+______
+### **FrontEnd**
 
 * Languages <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
 
@@ -71,7 +72,7 @@ ______
 * UX tools <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" style="height:20px"/><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" alt="Illustrator"><img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop"><img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign"><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
 
 
-#### **BackEnd**
+### **BackEnd**
 
 * Languages: <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" alt="Node.js" >
 
