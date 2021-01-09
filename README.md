@@ -28,12 +28,17 @@ const joanna = {
 
 ## Projects
 <a href="https://joannasmerea.com" title="Professional portfolio" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEQPDPtUAM9wQ/profile-displayphoto-shrink_400_400/0/1600803408136?e=1613606400&v=beta&t=Q9AnO55IQR-z5NedUh0E-y2_G6-NlaeYLGWfxQM6w8k" alt="Joanna" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank"><img src="https://joannawebdev.github.io/balmes-innova-desarrollo-web/img/joanna.png" width="50" height="50" alt="Balmes Innova curso desarrollo web"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank"><img src="https://james-brown-react.netlify.app/img/james-brown.jpg" width="50" height="50" alt="James Brown"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">🌞</a>&nbsp;&nbsp;&nbsp;
- <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
-<img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="40"/></a>&nbsp;&nbsp;&nbsp;
+
+<p>As a final project for the web developer certificate, I developed a landing page describing the course Creation & publication of web pages and the promotion of 2020.<a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank"><img src="https://joannawebdev.github.io/balmes-innova-desarrollo-web/img/joanna.png" width="50" height="50" alt="Balmes Innova curso desarrollo web"></a></p>&nbsp;&nbsp;&nbsp;
+
+<p>Online portfolio, built with ReactJS, showing how components can be used to build a friendly user experience.
+In the Portfolio page you can find a photo gallery with data fetched from the Pixabay API and in the Repertoire page a shopping cart, for which I used React Hooks.<a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank"><img src="https://james-brown-react.netlify.app/img/james-brown.jpg" width="50" height="50" alt="James Brown"></a></p>&nbsp;&nbsp;&nbsp;
+
+<p>Starting from scratch, built my first blog using ReactJS with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive.<a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank"><img src="https://joannawebdev.github.io/fashion-blog-react/about-me.jpg"  alt="Fashionista avatar" width="50" height="50"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">🌞</a></p>&nbsp;&nbsp;&nbsp;
+
+<p>Netflix homepage built entirely with Bootstrap. A faithful replica of one of the most popular video streaming services.<a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
+<img src="https://i.ibb.co/r5krrdz/logo.png" alt="netflix logo"  width="50" height="40"/></a></p>&nbsp;&nbsp;&nbsp;
 
 
 
