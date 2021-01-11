@@ -90,7 +90,6 @@ ______
 ## Learning path 🏆
 ### On-going courses
 * <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a>
-* <a href="https://www.udemy.com/course/nodejs-the-complete-guide/">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a>
 * <a href="https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/">Spotify clone with React</a>
 
 
