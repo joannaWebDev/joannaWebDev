@@ -89,11 +89,12 @@ ______
 ______
 ## Learning path 🏆
 ### On-going courses
-* <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a>
+* <a href="https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1018336">Front End amb React, IT Academy Cibernarium</a>
 * <a href="https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/">Spotify clone with React</a>
 
 
 ### Finished courses
+* <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a>
 * <a href="https://www.balmesinnova.com/cursos/confeccion-publicacion-paginas-web/">Web Development Professional Certificate at Balmes Innova - 2020</a>
 * <a href="https://www.udemy.com/course/the-complete-javascript-course/"> The complete JavaScript Course 2020 -From Zero to expert at Udemy </a>
 * <a href="https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/">JIRA with real-world examples</a>
