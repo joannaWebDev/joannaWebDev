@@ -90,7 +90,6 @@ ______
 ## Learning path 🏆
 ### On-going courses
 * <a href="https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1018336">Front End amb React, IT Academy Cibernarium</a>
-* <a href="https://www.udemy.com/course/electron-js-y-react-js-creando-un-spotify/">Spotify clone with React</a>
 
 
 ### Finished courses
