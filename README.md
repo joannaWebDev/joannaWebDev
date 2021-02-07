@@ -10,8 +10,8 @@ const joanna = {
         askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
             frontEnd: {
-                js: ["JavaScript", "React", "jQuery"],
-                css: ["css3", "scss", "bootstrap"]
+                js: ["JavaScript", "React", "Gatsby", "Vue", "jQuery"],
+                css: ["CSS3", "SCSS", "Bootstrap"]
             },
             backEnd: {
                 js: ["Node", "Express"]
@@ -57,9 +57,9 @@ ______
 * Languages <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
 
 
-* Frameworks: <img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" style="height:20px"/>
+* Frameworks: <img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React"><img src="https://img.shields.io/badge/vue-2.2.4-green.svg" alt="Vue"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" style="height:20px"/>
 
-* Develop & style <img src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" alt="HTML"><img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34" height="34" class="d-block rounded-1 mr-3 flex-shrink-0" alt="SASS logo"><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
+* Develop & style <img src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" alt="HTML"><img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/><img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34" height="34" class="d-block rounded-1 mr-3 flex-shrink-0" alt="SASS logo"><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
 
 * Version control: <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub"><img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" style="height:20px"/>
 
