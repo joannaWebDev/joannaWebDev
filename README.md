@@ -91,7 +91,7 @@ ______
 ______
 ## Learning path 🏆
 ### On-going courses
-* <a href="https://cibernarium.barcelonactiva.cat/web/guest/ficha-actividad?activityId=1018336">Front End amb React, IT Academy Cibernarium</a>
+* <p>NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</p>
 
 
 ### Finished courses
@@ -102,7 +102,7 @@ ______
 
 ______
 ## **Music for programming?** 🎧
-<p><a href="https://youtu.be/M5QY2_8704o" rel="nofollow"><img src="https://camo.githubusercontent.com/114599f102866afdf7625dbd3362fa19b82e74d7746a49716fc8879df93b5077/68747470733a2f2f6e6f772d706c6179696e672d636f6465737461636b722e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="codeSTACKr Spotify Playing" width="350" data-canonical-src="https://now-playing-codestackr.vercel.app/api/spotify-playing" style="max-width:100%;"></a></p>
+<p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow"><img src="https://camo.githubusercontent.com/114599f102866afdf7625dbd3362fa19b82e74d7746a49716fc8879df93b5077/68747470733a2f2f6e6f772d706c6179696e672d636f6465737461636b722e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="Blues on the Go" width="350" data-canonical-src="https://youtu.be/ZVQV-1Fzl3w" style="max-width:100%;"></a></p>
 
 
 
