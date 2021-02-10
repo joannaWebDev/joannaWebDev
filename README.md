@@ -31,7 +31,7 @@ const joanna = {
 * <p>As a final project for the Web Dev Professional Certificate, I developed a landing page describing the course and the promotion of 2020. &#9758; <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a></p>
 * <p>Online portfolio, built with <strong>REACT</strong>, showing how components can be used to build a friendly user experience. In the Portfolio page you can find a photo gallery with data fetched from the Pixabay API and in the Repertoire page a shopping cart, for which I used React Hooks. &#9758; <a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank">https://james-brown-react.netlify.app</a></p>
 * <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
-* <p>Netflix homepage built entirely with Bootstrap. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
+* <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
 
 
