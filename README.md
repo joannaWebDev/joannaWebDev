@@ -10,7 +10,7 @@ const joanna = {
         askMeAbout: ["web dev", "tech", "photography", "music"],
         technologies: {
             frontEnd: {
-                js: ["JavaScript", "React", "Gatsby", "Vue", "jQuery"],
+                js: ["JavaScript", "React", "Gatsby", "jQuery"],
                 css: ["CSS3", "SCSS", "Bootstrap"]
             },
             backEnd: {
