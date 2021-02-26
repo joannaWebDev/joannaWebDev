@@ -1,5 +1,5 @@
 <h1 align='center'>Hello, I'm <a href="https://joannasmerea.com/"> Joanna!</a></h1>
-<h2 align='center' style='text-transform:italic;'>Front-end developer specialising in React&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align='center' style='text-transform:italic;'>Front-end developer specializing in React&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
 ---
 *A little more about me…*
