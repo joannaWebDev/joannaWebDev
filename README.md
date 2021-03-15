@@ -17,7 +17,7 @@
   
     
 * *PB NO 3:* You are a freelancer photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, according to **tags** and you also have a **repertoire page** where you sell photography course. The user can **add or delete products to the cart**.    
-**REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a> 
+**REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a>   
 **DEMO** <a href="https://james-brown-react.netlify.app/" title="james-brown-react-tostify-api" target="_blank">https://james-brown-react.netlify.app/</a>  
   
     
@@ -27,7 +27,7 @@
     
     
 * *PB NO 5:* Want to try out doing a quick, easy **VUE3 app** that is a small copy of **twitter** Then have a look at wthat I've build! Feel free to **clone the project**.  
-**REPO** <a href="" title="james-brown-react-tostify-api" target="_blank"></a> 
+**REPO** <a href="https://github.com/joannaWebDev/twotter-vue3.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/twotter-vue3.git</a>   
 **DEMO** <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a>  
   
     
@@ -36,8 +36,10 @@
 **DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>   
 
   
-  
-## Other bits & pieces
+    
+______
+## Other bits & pieces  
+
 * <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
 * <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
