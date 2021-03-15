@@ -5,7 +5,7 @@
 </header>
 
 ---
-# You've got 99 problems. Does one of my apps solve it?
+# You've got 99 problems. Does any of my apps solve it?
 
 * *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual aspect of the app is really important also, so you will style it with **Tailwind CSS**.  
 **REPO** - upon request  
