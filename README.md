@@ -49,12 +49,11 @@ ______
 ## **GitHub Pages**
 <p>Canada Sports Betting with <strong>JAVASCRIPT & JQUERY</strong> &#9758; https://joannawebdev.github.io/Canada-Sports-Betting/</p>
 
-______
 ## **Netlify Pages**
 <p>Psicólogos de calle with <strong>REACT</strong> &#9758; https://psicologxs-de-calle.netlify.app/ </p>
 
 ______
-## **Tech Stack**
+## **TECH STACK**
 
 
 ### **FrontEnd**
