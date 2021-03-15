@@ -1,4 +1,4 @@
-<header align="center">
+<header >
  <h1 align='center'>Hello, I'm <a href="https://joannasmerea.com/"> Joanna!</a></h1>
  <h2 align='center' style='text-transform:italic;'>Front-End developer specializing in React&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
  <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
@@ -7,7 +7,7 @@
 ---
 # You've got 99 problems. Does one of my apps solve it?
 
-* *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual side of the app is really important also, so you will style it with **Tailwind CSS**  
+* *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual aspect of the app is really important also, so you will style it with **Tailwind CSS**.  
 **REPO** - upon request  
 **DEMO** <a href="https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/" title="colors-fetch-api-react-query-copy-to-clipboard" target="_blank">https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/</a>   
 
@@ -16,18 +16,17 @@
 **REPO** <a href="https://github.com/joannaWebDev/vue-echart.js.git" title="vue-echart" target="_blank">https://github.com/joannaWebDev/vue-echart.js.git</a> 
   
     
-* *PB NO 3:* You are a freelancer photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, according to **tags** and you also have a **repertoire page** where you sell photography course. The user can **add or delete products to the cart**.    
+* *PB NO 3:* You are a freelance photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, mapping it through **tags** and you also have a **repertoire page** where you sell different photography courses. The user can **add or delete products to the cart**.   
 **REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a>   
 **DEMO** <a href="https://james-brown-react.netlify.app/" title="james-brown-react-tostify-api" target="_blank">https://james-brown-react.netlify.app/</a>  
   
     
-* *PB NO 4:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little about the subjects you will learn, and displaying a gallery with the current tutors and old alumni. The page has slick look to it, no flowering, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
+* *PB NO 4:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little bit about the subjects you will teach, and displaying a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
 **DEMO** <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a>  
   
     
-    
-* *PB NO 5:* Want to try out doing a quick, easy **VUE 3 app** that is a small copy of **twitter**? Then have a look at wthat I've build! Feel free to **clone the project**.  
-**REPO** <a href="https://github.com/joannaWebDev/twotter-vue3.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/twotter-vue3.git</a>   
+* *PB NO 5:* Want to try out doing a quick, easy **VUE 3 app** that is similar to **twitter**? Then have a look at wthat I've built! Feel free to **clone the project**.  
+**REPO** <a href="https://github.com/joannaWebDev/twotter-vue3.git" title="twotter" target="_blank">https://github.com/joannaWebDev/twotter-vue3.git</a>   
 **DEMO** <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a>  
   
     
