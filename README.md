@@ -10,6 +10,7 @@
 * *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual side of the app is really important also, so you will style it with **Tailwind CSS**  
 **REPO** - upon request  
 **DEMO** <a href="https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/" title="colors-fetch-api-react-query-copy-to-clipboard" target="_blank">https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/</a>   
+[go](https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/){:target="_blank" rel="noopener"}
 
 
 * *PB NO 2:* Your investment company needs a **VUE app** with: a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.   
