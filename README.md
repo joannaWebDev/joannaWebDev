@@ -12,7 +12,7 @@
 **DEMO** https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/
 
 * *PB NO 2:* Your investment company needs a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target  hit in a specific month, where the possibiñlities are represented by 2 numbers in %. 
-**REPO** Upon request 
+**REPO** https://github.com/joannaWebDev/vue-echart.js.git
 
 ## Projects
 * 
