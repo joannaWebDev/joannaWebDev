@@ -27,12 +27,12 @@
     
     
 * *PB NO 5:* Want to try out doing a quick, easy **VUE3 app** that is a small copy of **twitter** Then have a look at wthat I've build! Feel free to **clone the project**.  
-**REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a> 
+**REPO** <a href="" title="james-brown-react-tostify-api" target="_blank"></a> 
 **DEMO** <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a>  
   
     
 * *PB NO 6:* Have you heard about **PWA**? A progressive web application, built here with **REACT** that gives the suer the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
-**REPO** <a href="" title="weather-app-react-and-pwa" target="_blank"></a> 
+**REPO** <a href="https://github.com/joannaWebDev/weather-app-react-pwa.git" title="weather-app-react-and-pwa" target="_blank">https://github.com/joannaWebDev/weather-app-react-pwa.git</a>   
 **DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>   
 
   
