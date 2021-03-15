@@ -9,15 +9,22 @@
 
 * *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual side of the app is really important also, so you will style it with **Tailwind CSS**  
 **REPO** - upon request  
-**DEMO** https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/
+**DEMO** https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/  
 
-* *PB NO 2:* Your investment company needs a **VUE app** with: a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target  hit in a specific month, where the possibiñlities are represented by 2 numbers in %.   
-**REPO** https://github.com/joannaWebDev/vue-echart.js.git
+
+* *PB NO 2:* Your investment company needs a **VUE app** with: a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.   
+**REPO** https://github.com/joannaWebDev/vue-echart.js.git  
+  
+    
+* *PB NO 3:* You are a freelancer photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, according to **tags** and you also have a **repertoire page** where you sell photography course. The user can **add or delete products to the cart**.    
+**REPO** - upon request  
+**DEMO** https://james-brown-react.netlify.app/  
+
+
 
 ## Projects
 * 
 * <p>As a final project for the Web Dev Professional Certificate, I developed a landing page describing the course and the promotion of 2020. &#9758; <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a></p>
-* <p>Online portfolio, built with <strong>REACT</strong>, showing how components can be used to build a friendly user experience. In the Portfolio page you can find a photo gallery with data fetched from the Pixabay API and in the Repertoire page a shopping cart, for which I used React Hooks. &#9758; <a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank">https://james-brown-react.netlify.app</a></p>
 * <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
 * <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
