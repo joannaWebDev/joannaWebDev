@@ -9,30 +9,38 @@
 
 * *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual side of the app is really important also, so you will style it with **Tailwind CSS**  
 **REPO** - upon request  
-**DEMO** https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/  
+**DEMO** <a href="https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/" title="colors-fetch-api-react-query-copy-to-clipboard" target="_blank">https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/</a>   
 
 
 * *PB NO 2:* Your investment company needs a **VUE app** with: a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.   
-**REPO** https://github.com/joannaWebDev/vue-echart.js.git  
+**REPO** <a href="https://github.com/joannaWebDev/vue-echart.js.git" title="vue-echart" target="_blank">https://github.com/joannaWebDev/vue-echart.js.git</a> 
   
     
 * *PB NO 3:* You are a freelancer photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, according to **tags** and you also have a **repertoire page** where you sell photography course. The user can **add or delete products to the cart**.    
-**REPO** - upon request  
-**DEMO** https://james-brown-react.netlify.app/  
+**REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a> 
+**DEMO** <a href="https://james-brown-react.netlify.app/" title="james-brown-react-tostify-api" target="_blank">https://james-brown-react.netlify.app/</a>  
+  
+    
+* *PB NO 4:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little about the subjects you will learn, and displaying a gallery with the current tutors and old alumni. The page has slick look to it, no flowering, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
+**DEMO** <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a>  
+  
+    
+    
+* *PB NO 5:* Want to try out doing a quick, easy **VUE3 app** that is a small copy of **twitter** Then have a look at wthat I've build! Feel free to **clone the project**.  
+**REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a> 
+**DEMO** <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a>  
+  
+    
+* *PB NO 6:* Have you heard about **PWA**? A progressive web application, built here with **REACT** that gives the suer the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
+**REPO** <a href="" title="weather-app-react-and-pwa" target="_blank"></a> 
+**DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>   
 
-
-
-## Projects
-* 
-* <p>As a final project for the Web Dev Professional Certificate, I developed a landing page describing the course and the promotion of 2020. &#9758; <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a></p>
+  
+  
+## Other bits & pieces
 * <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
 * <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
 https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
-
-
-## Apps
-* <p>Twotter App with <strong>VUE3</strong> &#9758; <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a></p>
-* <p>Weather App with <strong>REACT & PWA</strong> &#9758; <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a></p>
 * <p>Weather_app with <strong>JAVASCRIPT</strong> &#9758; https://joannawebdev.github.io/Weather_App/</p>
 
 ______
