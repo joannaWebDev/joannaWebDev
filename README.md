@@ -7,10 +7,12 @@
 ---
 # You've got 99 problems. Does one of my apps solve it?
 
-* *PB NO 1* Your company asked you to build a **React app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**.  
+* *PB NO 1:* Your company asked you to build a **React app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**.  
+**REPO** Upon request 
 **DEMO** https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/
 
-
+* *PB NO 2:* Your investment company needs a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target  hit in a specific month, where the possibiñlities are represented by 2 numbers in %. 
+**REPO** Upon request 
 
 ## Projects
 * 
