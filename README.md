@@ -1,33 +1,19 @@
-<h1 align='center'>Hello, I'm <a href="https://joannasmerea.com/"> Joanna!</a></h1>
-<h2 align='center' style='text-transform:italic;'>Front-end developer specializing in React&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<header align="center">
+ <h1 align='center'>Hello, I'm <a href="https://joannasmerea.com/"> Joanna!</a></h1>
+ <h2 align='center' style='text-transform:italic;'>Front-end developer specializing in React&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+ <p><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
+</header>
 
 ---
-*A little more about me…*
+# You've got 99 problems. Does one of my apps solve it?
 
-```js
-const joanna = {   
-        pronouns: "She" | "They",
-        askMeAbout: ["web dev", "tech", "photography", "music"],
-        technologies: {
-            frontEnd: {
-                js: ["JavaScript", "React", "Gatsby", "jQuery"],
-                css: ["CSS3", "SCSS", "Tailwind", "Bootstrap"]
-            },
-            backEnd: {
-                js: ["Node", "Express"]
-            },
-            databases: ["PostgreSQL", "MySql" ]
-        },
-        currentProject: "I am developing an interactive blues website",
-        funFact: "There are two ways to write error-free programs; only the third one works",
-        availableForHire: true
-    };
-```
+* *PB NO 1* Your company asked you to build a **React app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**.  
+**DEMO** https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/
 
 
 
 ## Projects
-* <p>Professional portfolio &#9758; <a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
+* 
 * <p>As a final project for the Web Dev Professional Certificate, I developed a landing page describing the course and the promotion of 2020. &#9758; <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a></p>
 * <p>Online portfolio, built with <strong>REACT</strong>, showing how components can be used to build a friendly user experience. In the Portfolio page you can find a photo gallery with data fetched from the Pixabay API and in the Repertoire page a shopping cart, for which I used React Hooks. &#9758; <a href="https://james-brown-react.netlify.app/" title="James Brown -React" target="_blank">https://james-brown-react.netlify.app</a></p>
 * <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
