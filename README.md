@@ -16,7 +16,7 @@
 **REPO** <a href="https://github.com/joannaWebDev/vue-echart.js.git" title="vue-echart" target="_blank">https://github.com/joannaWebDev/vue-echart.js.git</a> 
   
     
-* *PB NO 3:* You need to deliver **charts** in pure **Vanilla JS**. The library used is **Echarts**. You can see a **treemap chart model** and because 2 of the **bar charts** have similar design and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the funcionality of each chart.   
+* *PB NO 3:* You need to deliver **charts** in pure **Vanilla JS**. The library used is **Echarts**. You can see a **treemap chart model** and because 2 of the **bar charts** have similar design and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the functionality of each chart.   
 **REPO** <a href="https://github.com/joannaWebDev/charts-vanillaJS.git" title="charts vanilla JS" target="_blank">https://github.com/joannaWebDev/charts-vanillaJS.git</a>   
 **DEMO** <a href="https://charts-vanillajs.netlify.app/index.html" title="charts vanillaJS" target="_blank">https://charts-vanillajs.netlify.app/index.html</a>  
 
