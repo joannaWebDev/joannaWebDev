@@ -16,21 +16,26 @@
 **REPO** <a href="https://github.com/joannaWebDev/vue-echart.js.git" title="vue-echart" target="_blank">https://github.com/joannaWebDev/vue-echart.js.git</a> 
   
     
-* *PB NO 3:* You are a freelance photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, mapping it through **tags** and you also have a **repertoire page** where you sell different photography courses. The user can **add or delete products to the cart**.   
+* *PB NO 3:* You need to deliver **charts** in pure **Vanilla JS**. The library used in **Echarts**. You can see a **treemap chart model** and because 2 of the charts have similar design and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the funcionality of each chart.   
+**REPO** <a href="https://github.com/joannaWebDev/charts-vanillaJS.git" title="charts vanilla JS" target="_blank">https://github.com/joannaWebDev/charts-vanillaJS.git</a>   
+**DEMO** <a href="https://charts-vanillajs.netlify.app/index.html" title="charts vanillaJS" target="_blank">https://charts-vanillajs.netlify.app/index.html</a>  
+
+
+* *PB NO 4:* You are a freelance photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, mapping it through **tags** and you also have a **repertoire page** where you sell different photography courses. The user can **add or delete products to the cart**.   
 **REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a>   
 **DEMO** <a href="https://james-brown-react.netlify.app/" title="james-brown-react-tostify-api" target="_blank">https://james-brown-react.netlify.app/</a>  
   
     
-* *PB NO 4:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little bit about the subjects you will teach, and displaying a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
+* *PB NO 5:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little bit about the subjects you will teach, and displaying a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
 **DEMO** <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a>  
   
     
-* *PB NO 5:* Want to try out doing a quick, easy **VUE 3 app** that is similar to **twitter**? Then have a look at wthat I've built! Feel free to **clone the project**.  
+* *PB NO 6:* Want to try out doing a quick, easy **VUE 3 app** that is similar to **twitter**? Then have a look at wthat I've built! Feel free to **clone the project**.  
 **REPO** <a href="https://github.com/joannaWebDev/twotter-vue3.git" title="twotter" target="_blank">https://github.com/joannaWebDev/twotter-vue3.git</a>   
 **DEMO** <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a>  
   
     
-* *PB NO 6:* Have you heard about **PWA**? A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
+* *PB NO 7:* Have you heard about **PWA**? A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
 **REPO** <a href="https://github.com/joannaWebDev/weather-app-react-pwa.git" title="weather-app-react-and-pwa" target="_blank">https://github.com/joannaWebDev/weather-app-react-pwa.git</a>   
 **DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>   
 
