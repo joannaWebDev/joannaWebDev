@@ -1,6 +1,6 @@
 <header >
  <h1 align='center'>Hello, I'm <a href="https://joannasmerea.com/"> Joanna!</a></h1>
- <h2 align='center' style='text-transform:italic;'>Front-End developer specializing in React&nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+ <img src="https://github.com/joannaWebDev/media/blob/main/about-me.gif?raw=true" width="300">
  <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
 </header>
 
