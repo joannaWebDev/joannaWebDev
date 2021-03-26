@@ -1,8 +1,10 @@
 <header >
- <h1 align='center'>Hello, I'm <a href="https://joannasmerea.com/"> Joanna!</a></h1>
- <img src="https://github.com/joannaWebDev/media/blob/main/about-me.gif?raw=true" width="300">
- <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
+  <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
 </header>
+ <p align="center">
+ <img  src="https://github.com/joannaWebDev/media/blob/main/about-me.gif?raw=true" >
+ </p>
+
 
 ---
 # You've got 99 problems. Does any of my apps solve it?
