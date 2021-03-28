@@ -38,7 +38,15 @@
     
 * *PB NO 7:* Have you heard about **PWA**? A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
 **REPO** <a href="https://github.com/joannaWebDev/weather-app-react-pwa.git" title="weather-app-react-and-pwa" target="_blank">https://github.com/joannaWebDev/weather-app-react-pwa.git</a>   
-**DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>   
+**DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>     
+  
+* *PB NO 8:* **CRUD APP with NODE & REACT**  practising **RECURSIVE FUNCTION**  
+Write a production-ready function that sums the numbers in a file.  
+The **function** will receive as **input the path to a file**.    
+**Each line** of the file will contain either **a number or a path to another file**.
+For **each file**, output the **file path** and **the sum of the numbers** contained both directly in the file or in any of the sub files listed (or their sub files, etc).     
+**REPO** - upon request    
+**DEMO** <a href="https://crud-node-react-sum-files.herokuapp.com/" title="crud-node-react-sum-files" target="_blank">https://crud-node-react-sum-files.herokuapp.com/</a>     
 
   
     
