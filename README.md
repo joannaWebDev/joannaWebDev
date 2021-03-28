@@ -2,12 +2,11 @@
  <p align='center'>
   <img  src="https://github.com/joannaWebDev/media/blob/main/typing.gif?raw=true" >
  </p>
-   <p align='left'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
-   <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" /></p>
+   <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
 </header>
 
 ---
-# You've got 99 problems. Does any of my apps solve it?
+# You've got 99 problems. Does any of my apps solve it?  <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150"/></p>
 
 * *PB NO 1:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual aspect of the app is really important also, so you will style it with **Tailwind CSS**.  
 **REPO** - upon request  
