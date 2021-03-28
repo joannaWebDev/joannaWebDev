@@ -1,8 +1,9 @@
 <header >
-  <h2 align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></h2>
- <p align="center">
- <img  src="https://github.com/joannaWebDev/media/blob/main/about-me.gif?raw=true" >
+ <p align='center'>
+  <img  src="https://github.com/joannaWebDev/media/blob/main/typing.gif?raw=true" >
  </p>
+   <p align='left'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
+   <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" /></p>
 </header>
 
 ---
