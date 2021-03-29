@@ -1,7 +1,7 @@
 <header >
  <h1 align='center'>
   Hi, I'm Joanna. </h1>
- <h2 align='center'>Front-end developer specializing in React
+ <h2 align='center'>My mojo: <q>A learn by doing attitude, high energy and team player</q>
  </p>
   <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
 </header>
