@@ -10,7 +10,7 @@
 # You've got 99 problems. Does any of my apps help you solve it?  <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150"/></p>
 
 * *PB NO 1:* My number 1 project thus far 🦚. This is a fashion editor's website built in **Gatsby & GraphQL** with a personalized **Netlify CMS**. It also has a **blog** page. 
-Real project, with an estimated finish data of june 2021.  
+Real project, with an estimated finish date by june 2021.  
 **DEMO** <a href="https://mabel-gago-gatsby-cms.netlify.app/" title="mabel-gago-gatsby" target="_blank">https://mabel-gago-gatsby-cms.netlify.app/</a>     
 
 
