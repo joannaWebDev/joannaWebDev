@@ -67,33 +67,55 @@ ______
 <p>Psicólogos de calle with <strong>REACT</strong> &#9758; https://psicologxs-de-calle.netlify.app/ </p>
 
 ______
+
+
+📊 **This Week I Spent My Time On:**
+
+```text
+React        9 hrs 34 mins   ████████████▒░░░░░░░░░░░░   49.80 % 
+JavaScript   7 hrs 6 mins    ██▒░░▒░░░░░░░░░░░░░░░░░░░   36.98 % 
+Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Node         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+```
+
+
+
+
 ## **TECH STACK**
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  
+  
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  
+  
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
+
+  
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://camo.githubusercontent.com/87d8d88ac087f77c5b56509373a2dd49e5439722d7ad59c3f39a577907053152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" style="height:20px">
+ <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="height:20px" alt="PostgreSQL"/>  
+   
+   
+ <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git">
+ <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub">
+ <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" style="height:20px" alt="GitLab"/>  
+
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" style="height:20px"/>
+  <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">
+  <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">
+  <img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign">
+  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
+</p>
 
 
-### **FrontEnd**
-
-* Languages <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">
-
-
-* Frameworks: <img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React"><img src="https://img.shields.io/badge/Vue-3.x-brightgreen.svg" alt="Vue" loading="lazy">
-
-* Develop & style <img src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" alt="HTML"><img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown"><img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="34" height="34" class="d-block rounded-1 mr-3 flex-shrink-0" alt="SASS logo"><img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
-
-* Version control: <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub"><img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" style="height:20px"/>
-
-* Command Line: **PowerShell**, **Ubuntu**, **Node shell**
-
-* Code Editor: <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">
-* UX tools <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" style="height:20px"/><img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" alt="Illustrator"><img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop"><img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign"><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
-
-
-### **BackEnd**
-
-* Languages: <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" alt="Node.js" >
-
-* Frameworks <img src="https://camo.githubusercontent.com/87d8d88ac087f77c5b56509373a2dd49e5439722d7ad59c3f39a577907053152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" style="height:20px">
-
-* Databases: <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="height:20px"/>
 ______
 ## Soft Skills
 * Adaptability
