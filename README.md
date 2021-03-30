@@ -84,8 +84,13 @@ Node         38 mins         ▓░░░░░░░░░░░░░░░░
 HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 
+  
+______  
 
-
+📚 **My books** 📚 
+  
+  <img alt="Clean Code" src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" width="100"/>
+______  
 
 ## **TECH STACK**
 <p>
