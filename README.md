@@ -24,9 +24,9 @@ Real project, expected to be **live** by june 2021.
 
 
 * *PB NO 4:* Build a **PWA** with **VANILA JS** using **OOP & GEOLOCATION**.   
-At a simple glance, you can see displayed on the map all your workouts wwhich are logged in with **location, distance, time**.
-**REPO** - upon request  
-**DEMO** <a href="https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/" title="colors-fetch-api-react-query-copy-to-clipboard" target="_blank">https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/</a>   
+At a simple glance, you can see displayed on the map all your workouts wwhich are logged in with **location, distance, time**.  
+**REPO** - https://github.com/joannaWebDev/mapty-map-your-workouts-oop-pwa.git  
+**DEMO** <a href="https://mapty-map-your-workouts-oop-pwa.netlify.app/" title="mapty-map-your-workouts-oop-pwa" target="_blank">https://mapty-map-your-workouts-oop-pwa.netlify.app/</a>   
 
 
 * *PB NO 5:* **CRUD APP with NODE & REACT**  practising **RECURSIVE FUNCTION**  
