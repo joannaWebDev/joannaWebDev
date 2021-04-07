@@ -98,7 +98,7 @@ ______
 
 📚 **My books** 📚 
   
-  <img alt="Clean Code" src="https://images-na.ssl-images-amazon.com/images/I/51b7XbfMIIL.jpg" width="100"/>
+  <img alt="The Pragmatic Programmer: your journey to mastery" src="https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg" width="100"/>
 ______  
 
 ## **TECH STACK**
