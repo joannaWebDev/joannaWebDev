@@ -25,7 +25,7 @@ Real project, expected to be **live** by june 2021.
 
 * *PB NO 4:* Build an app with **VANILLA JS** using **OOP & GEOLOCATION**.   
 At a simple glance, you can see displayed on the map all your workouts which are logged in with **location, distance, time**.  
-**REPO** - https://github.com/joannaWebDev/mapty-map-your-workouts-oop-pwa.git  
+**REPO** - https://github.com/joannaWebDev/mapty-map-your-workouts-oop.git  
 **DEMO** <a href="https://mapty-map-your-workouts-oop.netlify.app/" title="mapty-map-your-workouts-oop" target="_blank">https://mapty-map-your-workouts-oop.netlify.app/</a>   
 
 
