@@ -23,7 +23,7 @@ Real project, expected to be **live** by june 2021.
 **REPO** <a href="https://github.com/joannaWebDev/vue-echart.js.git" title="vue-echart" target="_blank">https://github.com/joannaWebDev/vue-echart.js.git</a> 
 
 
-* *PB NO 4:* Build a **PWA** with **VANILLA JS** using **OOP & GEOLOCATION**.   
+* *PB NO 4:* Build an app with **VANILLA JS** using **OOP & GEOLOCATION**.   
 At a simple glance, you can see displayed on the map all your workouts which are logged in with **location, distance, time**.  
 **REPO** - https://github.com/joannaWebDev/mapty-map-your-workouts-oop-pwa.git  
 **DEMO** <a href="https://mapty-map-your-workouts-oop-pwa.netlify.app/" title="mapty-map-your-workouts-oop-pwa" target="_blank">https://mapty-map-your-workouts-oop-pwa.netlify.app/</a>   
