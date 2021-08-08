@@ -152,6 +152,7 @@ ______
 
 
 ### Finished courses
+* Vue - The Complete Guide (incl. Vue Router, Vuex, and Composition API) - 2021
 * <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a> - 2021
 * <a href="https://www.balmesinnova.com/cursos/confeccion-publicacion-paginas-web/">Web Development Professional Certificate at Balmes Innova - 2020</a>
 * <a href="https://www.udemy.com/course/the-complete-javascript-course/"> The complete JavaScript Course 2020 -From Zero to expert at Udemy </a>
@@ -159,7 +160,7 @@ ______
 
 ______
 ## **Music for programming?** 🎧
-<p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow"><img src="https://camo.githubusercontent.com/114599f102866afdf7625dbd3362fa19b82e74d7746a49716fc8879df93b5077/68747470733a2f2f6e6f772d706c6179696e672d636f6465737461636b722e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="Blues on the Go" width="350" data-canonical-src="https://youtu.be/ZVQV-1Fzl3w" style="max-width:100%;"></a></p>
+<p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow">Blues life</a></p>
 
 
 
