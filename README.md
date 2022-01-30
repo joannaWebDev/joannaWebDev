@@ -98,49 +98,62 @@ ______
 
 📚 **My books** 📚 
 <p>
-
+  <img alt="The Pragmatic Programmer: your journey to mastery" src="https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg" width="100"/>
+ 
   <img alt="Accessibility for everyone" src="https://images-na.ssl-images-amazon.com/images/I/41sf8QdyB+L.jpg" width="100"/>
   <span></span> <span></span>
-  
-  <img alt="The Pragmatic Programmer: your journey to mastery" src="https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg" width="100"/>
+ 
+   <img alt="Accessibility for everyone" src="https://bradfrost.com/wp-content/uploads/2015/01/book-cover-700x1082.png" width="100"/>
+  <span></span> <span></span>
  
  </p>
 ______  
 
 ## **TECH STACK**
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">
-  <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="20" height="20"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  
-  
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  
-  
+  <img alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="20" height="20"/>  
+ </p>
+ 
+ <p>
+  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+ 
+ </p>
+ 
+ <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" >
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
-
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" >
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+ </p>
   
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img src="https://camo.githubusercontent.com/87d8d88ac087f77c5b56509373a2dd49e5439722d7ad59c3f39a577907053152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" style="height:20px">
- <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="height:20px" alt="PostgreSQL"/>  
+  <p>
+ <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  
+ <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="height:20px" />  
+  <img alt="ExpressJS" src="https://camo.githubusercontent.com/87d8d88ac087f77c5b56509373a2dd49e5439722d7ad59c3f39a577907053152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" style="height:20px" />
+ </p> 
    
-   
- <img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git">
- <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub">
- <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" style="height:20px" alt="GitLab"/>  
-
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">
+ <p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github"/>
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white" style="height:20px" />  
+ </p>
+ 
+ <p>
+ <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" />
   <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" style="height:20px"/>
-  <img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">
-  <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">
-  <img src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" alt="InDesign">
-  <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
-</p>
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" />
+  <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
+ </p>
 
 
 ______
@@ -152,19 +165,6 @@ ______
 * Good interpersonal skills
 * Teamwork
 ______
-
-______
-## Learning path 🏆
-### On-going courses
-* <p>NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</p>
-
-
-### Finished courses
-* Vue - The Complete Guide (incl. Vue Router, Vuex, and Composition API) - 2021
-* <a href="https://migracode.openculturalcenter.org/course/">Full-Stack Bootcamp at MigraCode</a> - 2021
-* <a href="https://www.balmesinnova.com/cursos/confeccion-publicacion-paginas-web/">Web Development Professional Certificate at Balmes Innova - 2020</a>
-* <a href="https://www.udemy.com/course/the-complete-javascript-course/"> The complete JavaScript Course 2020 -From Zero to expert at Udemy </a>
-* <a href="https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/">JIRA with real-world examples</a>
 
 ______
 ## **Music for programming?** 🎧
