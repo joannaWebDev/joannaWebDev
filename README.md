@@ -98,8 +98,9 @@ ______
 
 📚 **My books** 📚 
 <p>
-  <img alt="The Pragmatic Programmer: your journey to mastery" src="https://images-na.ssl-images-amazon.com/images/I/51cUVaBWZzL._SX380_BO1,204,203,200_.jpg" width="100"/>
- 
+  <img alt="TDD y Example" src="https://images-na.ssl-images-amazon.com/images/I/51WXI-aNGCL._SX397_BO1,204,203,200_.jpg" width="100" />
+  <span></span> <span></span>
+
   <img alt="Accessibility for everyone" src="https://images-na.ssl-images-amazon.com/images/I/41sf8QdyB+L.jpg" width="100"/>
   <span></span> <span></span>
  
