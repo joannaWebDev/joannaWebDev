@@ -9,26 +9,29 @@
 ---
 # You've got 99 problems. Does any of my apps help you solve it?  <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150"/></p>
 
-* *PB NO 1:* This is a fashion editor's website built in **Gatsby & GraphQL** with a personalized **Netlify CMS**. Highlights: it has a **blog website** integrated, **dark mode** and it is fetching the **Instagram API**.  
+* *PB NO 1:* This is a polling app, build with Svelte and Vite.  
+**DEMO** <a href="https://ping-pong-club.netlify.app/" title="ping-pong-club" target="_blank">https://ping-pong-club.netlify.app//</a>    
+
+* *PB NO 2:* This is a fashion editor's website built in **Gatsby & GraphQL** with a personalized **Netlify CMS**. Highlights: it has a **blog website** integrated, **dark mode** and it is fetching the **Instagram API**.  
 **DEMO** <a href="https://mabel-gago-gatsby-cms.netlify.app/" title="mabel-gago-gatsby" target="_blank">https://mabel-gago-gatsby-cms.netlify.app/</a>     
 
 
-* *PB NO 2:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual aspect of the app is really important also, so you will style it with **Tailwind CSS**.  
+* *PB NO 3:* Your company asked you to build a **REACT app** where, after **fetching from an API that has multiple page queries**, you will **get** all the new colors that the company will use from now on in all their websites & platforms. Your app will have **pagination** implemented and the users will be able to **click a color & copy it to the clipboard**. As a front-end developer, the visual aspect of the app is really important also, so you will style it with **Tailwind CSS**.  
 **REPO** - upon request  
 **DEMO** <a href="https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/" title="colors-fetch-api-react-query-copy-to-clipboard" target="_blank">https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/</a>   
 
 
-* *PB NO 3:* Your investment company needs a **VUE app** with: a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.   
+* *PB NO 4:* Your investment company needs a **VUE app** with: a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.   
 **REPO** <a href="https://github.com/joannaWebDev/vue-echart.js.git" title="vue-echart" target="_blank">https://github.com/joannaWebDev/vue-echart.js.git</a> 
 
 
-* *PB NO 4:* Build an app with **VANILLA JS** using **OOP & GEOLOCATION**.   
+* *PB NO 5:* Build an app with **VANILLA JS** using **OOP & GEOLOCATION**.   
 At a simple glance, you can see displayed on the map all your workouts which are logged in with **location, distance, time**.  
 **REPO** - https://github.com/joannaWebDev/mapty-map-your-workouts-oop.git  
 **DEMO** <a href="https://mapty-map-your-workouts-oop.netlify.app/" title="mapty-map-your-workouts-oop" target="_blank">https://mapty-map-your-workouts-oop.netlify.app/</a>   
 
 
-* *PB NO 5:* **CRUD APP with NODE & REACT**  practising **RECURSIVE FUNCTION**  
+* *PB NO 6:* **CRUD APP with NODE & REACT**  practising **RECURSIVE FUNCTION**  
 Write a production-ready function that sums the numbers in a file.  
 The **function** will receive as **input the path to a file**.    
 **Each line** of the file will contain either **a number or a path to another file**.
@@ -37,26 +40,26 @@ For **each file**, output the **file path** and **the sum of the numbers** conta
 **DEMO** <a href="https://crud-node-react-sum-files.herokuapp.com/" title="crud-node-react-sum-files" target="_blank">https://crud-node-react-sum-files.herokuapp.com/</a>  
   
     
-* *PB NO 6:* **Echarts.js**. You can see a **treemap chart model** and because 2 of the **bar charts** have similar design and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the functionality of each chart.   
+* *PB NO 7:* **Echarts.js**. You can see a **treemap chart model** and because 2 of the **bar charts** have similar design and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the functionality of each chart.   
 **REPO** <a href="https://github.com/joannaWebDev/charts-vanillaJS.git" title="charts vanilla JS" target="_blank">https://github.com/joannaWebDev/charts-vanillaJS.git</a>   
 **DEMO** <a href="https://charts-vanillajs.netlify.app/index.html" title="charts vanillaJS" target="_blank">https://charts-vanillajs.netlify.app/index.html</a>  
 
 
-* *PB NO 7:* You are a freelance photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, mapping it through **tags** and you also have a **repertoire page** where you sell different photography courses. The user can **add or delete products to the cart**.   
+* *PB NO 8:* You are a freelance photographer and you want a website built in **REACT** where you can display your portfolio, by **fetching from the Pixabay API** all the gallery, mapping it through **tags** and you also have a **repertoire page** where you sell different photography courses. The user can **add or delete products to the cart**.   
 **REPO** <a href="https://github.com/joannaWebDev/james-brown-react-tostify-api.git" title="james-brown-react-tostify-api" target="_blank">https://github.com/joannaWebDev/james-brown-react-tostify-api.git</a>   
 **DEMO** <a href="https://james-brown-react.netlify.app/" title="james-brown-react-tostify-api" target="_blank">https://james-brown-react.netlify.app/</a>  
   
     
-* *PB NO 8:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little bit about the subjects you will teach, and displaying a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
+* *PB NO 9:* You want a clean, easy to read and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explaining a little bit about the subjects you will teach, and displaying a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer. Awesome, right?  
 **DEMO** <a href="https://joannawebdev.github.io/balmes-innova-desarrollo-web/" title="Balmes Innova Curso desarrollo web" target="_blank">https://joannawebdev.github.io/balmes-innova-desarrollo-web</a>  
   
     
-* *PB NO 9:* Want to try out doing a quick, easy **VUE 3 app** that is similar to **twitter**? Then have a look at wthat I've built! Feel free to **clone the project**.  
+* *PB NO 10:* Want to try out doing a quick, easy **VUE 3 app** that is similar to **twitter**? Then have a look at wthat I've built! Feel free to **clone the project**.  
 **REPO** <a href="https://github.com/joannaWebDev/twotter-vue3.git" title="twotter" target="_blank">https://github.com/joannaWebDev/twotter-vue3.git</a>   
 **DEMO** <a href="https://twottter-vue3.herokuapp.com/" title="Twotter App with Vue3" target="_blank">https://twottter-vue3.herokuapp.com/</a>  
   
     
-* *PB NO 10:* Have you heard about **PWA**? A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
+* *PB NO 11:* Have you heard about **PWA**? A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature in any given point of the world. How cool is that?!  
 **REPO** <a href="https://github.com/joannaWebDev/weather-app-react-pwa.git" title="weather-app-react-and-pwa" target="_blank">https://github.com/joannaWebDev/weather-app-react-pwa.git</a>   
 **DEMO** <a href="https://weather-app-react-and-pwa.netlify.app/" title="Weather App with React" target="_blank">https://weather-app-react-and-pwa.netlify.app</a>     
   
