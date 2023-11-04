@@ -120,7 +120,7 @@ ______
 
 
 ______
-## Soft Skills
+## Interpersonal Skills
 * Adaptability
 * Accountability
 * Self-criticism
