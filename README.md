@@ -13,13 +13,33 @@
 
 ______
 
-## Stats
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&show_icons=true&locale=en&layout=compact" alt="joannaWebDev" /> </p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&locale=en" alt="joannaWebDev" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joannaWebDev&" alt="joannaWebDev" /></p>
+<details><summary><h2>My GitHub Stats and Streak</h2></summary>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&theme=react&show_icons=true&locale=en&layout=compact"    alt="joannaWebDev" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&count_private=true&theme=react"  alt="GitHub stats" /></p>
+ <p align="center"><img src="https://streak-stats.demolab.com?user=joannaWebDev&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Joanna's GitHub streak stats" /></p>
+</details>
+
 ______  
 
-## **TECH STACK**
+<details><summary><h2>My GitHub Trophy Collection</h2></summary>
+ <p align="center">
+ <img alig src="https://github-profile-trophy.vercel.app/?username=joannaWebDev&margin-w=8&column=4&title=MultipleLang,Experience,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues,Reviews&theme=darkhub&no-frame=true" alt="github trophies" />
+ </p>
+</details>
+
+______ 
+
+<details><summary><h2>Languages and Tools I've Used</h2></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,html,css,bootstrap,tailwind,git,github,netlify,vercel,firebase,vscode&perline=6" />
+</p>
+<br><br>
+
+</details>
+
+
+<!-- 
 <p>
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vuedotjs&logoColor=fff" />
@@ -27,8 +47,8 @@ ______
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Gatsby" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" width="20" height="20"/>  
- </p>
- 
+ </p>-->
+ <!-- 
  <p>
   <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
  
@@ -65,7 +85,7 @@ ______
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
  </p>
 
-
+-->
 ______
 ## Highlighted projects
  <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150"/></p>
@@ -111,11 +131,8 @@ ______
 ## **Music for programming?** 🎧
 <p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow" target="_blank">Blues life</a></p>
 
-______
 
 
-### GitHub overview
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joannaWebDev&row=2&column=3" alt="joannaWebDev" /></a> </p>
 
 
 
