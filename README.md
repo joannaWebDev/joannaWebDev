@@ -14,10 +14,9 @@
 ______
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&show_icons=true&locale=en&layout=compact" alt="joannaWebDev" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&locale=en" alt="joannaWebDev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joannaWebDev&" alt="joannaWebDev" /></p>
-
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&show_icons=true&locale=en&layout=compact" alt="joannaWebDev" /> </p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&locale=en" alt="joannaWebDev" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joannaWebDev&" alt="joannaWebDev" /></p>
 ______  
 
 ## **TECH STACK**
@@ -88,21 +87,6 @@ ______
 
     
 ______
-## Other bits & pieces  
-
-* <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
-* <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
-https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
-* <p>Weather_app with <strong>JAVASCRIPT</strong> &#9758; https://joannawebdev.github.io/Weather_App/</p>
-
-______
-## **GitHub Pages**
-<p>Canada Sports Betting with <strong>JAVASCRIPT & JQUERY</strong> &#9758; https://joannawebdev.github.io/Canada-Sports-Betting/</p>
-
-## **Netlify Pages**
-<p>Psicólogos de calle with <strong>REACT</strong> &#9758; https://psicologxs-de-calle.netlify.app/ </p>
-
-______
 
 ## Interpersonal Skills
 * Adaptability
@@ -131,7 +115,7 @@ ______
 
 
 ### GitHub overview
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joannaWebDev&row=2&column=3" alt="joannaWebDev" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joannaWebDev&row=2&column=3" alt="joannaWebDev" /></a> </p>
 
 
 
