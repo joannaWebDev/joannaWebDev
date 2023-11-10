@@ -97,6 +97,7 @@ ______
 
 
 ______
+
 ## Interpersonal Skills
 * Adaptability
 * Accountability
@@ -120,6 +121,11 @@ ______
 ## **Music for programming?** 🎧
 <p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow" target="_blank">Blues life</a></p>
 
+______
+
+
+### GitHub overview
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joannaWebDev" alt="joannaWebDev" /></a> </p>
 
 
 
