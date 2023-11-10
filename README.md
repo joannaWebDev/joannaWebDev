@@ -1,4 +1,4 @@
-<header >
+<header>
  <h1 align='center'>Hi, I'm Joanna. </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannaWebDev&label=Profile%20views&color=0e75b6&style=flat" alt="joannaWebDev" /> </p>
 
@@ -13,39 +13,10 @@
 
 ______
 
-## Highlighted projects
- <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150"/></p>
-
-
-| Name (description)        | Tools               | Repo link           | Demo           |
-| ----------- | ------------------- | ------------------- | ------------------- |
-| **Polling App**    | *Svelte, Vite*      | [Repo](https://github.com/joannaWebDev/poll-app-react-node-mysql) | [Demo](https://ping-pong-club.netlify.app/) |
-| **Fashion editor's**    | *Gatsby & GraphQL,Netlify CMS*      | [Repo](https://example.com) | [Demo](https://mabel-gago-gatsby-cms.netlify.app/) |
-| **fetching from an API that has multiple page queries**    | *React, Tailwind*      | upon request | [Demo](https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/) |
-| ****VUE app** with a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.**    | *Vue*      | [Repo](https://github.com/joannaWebDev/vue-echart.js.git) | - |
-| **At a simple glance, you can see displayed on the map all your workouts which are logged in with -location, distance, time-.**    | *Vanilla JS, OOP, Geolocation*      | [Repo](https://github.com/joannaWebDev/mapty-map-your-workouts-oop.git ) | [Demo](https://mapty-map-your-workouts-oop.netlify.app/) |
-| **practicing *RECURSIVE FUNCTION* Write a production-ready function that sums the numbers in a file. The *function* will receive as *input the path to a file*. *Each line* of the file will contain either *a number or a path to another file*. For *each file*, output the *file path* and *the sum of the numbers* contained both directly in the file or in any of the sub-files listed (or their sub-files, etc).**    | *CRUD APP with NODE & REACT*      | upon request     | [Demo](https://crud-node-react-sum-files.herokuapp.com/) |
-| **You can see a *treemap chart model* and because 2 of the *bar charts* have similar designs and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the functionality of each chart.**    | **Echarts.js*      | [Repo](https://github.com/joannaWebDev/charts-vanillaJS.gi) | [Demo](https://charts-vanillajs.netlify.app/index.html) |
-| **display your portfolio, by *fetching from the Pixabay API* all the galleries, mapping it through *tags* and you also have a *repertoire page* where you sell different photography courses. The user can *add or delete products to the cart*.**    | *React*      | [Repo](https://github.com/joannaWebDev/james-brown-react-tostify-api.git) | [Demo](https://james-brown-react.netlify.app/) |
-| **a clean, easy-to-read, and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explain a little bit about the subjects you will teach, and display a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer**    | *HTML & SCSS*      | - | [Demo](https://joannawebdev.github.io/balmes-innova-desarrollo-web/) |
-| **Twitter**    | *Vue*      | [Repo](https://github.com/joannaWebDev/twotter-vue3.git) | [Demo](https://twottter-vue3.herokuapp.com/) |
-| **A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature at any given point of the world**    | *React,PWA*      | [Repo](https://github.com/joannaWebDev/weather-app-react-pwa.git") | [Demo](https://weather-app-react-and-pwa.netlify.app/) |
-
-    
-______
-## Other bits & pieces  
-
-* <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
-* <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
-https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
-* <p>Weather_app with <strong>JAVASCRIPT</strong> &#9758; https://joannawebdev.github.io/Weather_App/</p>
-
-______
-## **GitHub Pages**
-<p>Canada Sports Betting with <strong>JAVASCRIPT & JQUERY</strong> &#9758; https://joannawebdev.github.io/Canada-Sports-Betting/</p>
-
-## **Netlify Pages**
-<p>Psicólogos de calle with <strong>REACT</strong> &#9758; https://psicologxs-de-calle.netlify.app/ </p>
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&show_icons=true&locale=en&layout=compact" alt="joannaWebDev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&locale=en" alt="joannaWebDev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joannaWebDev&" alt="joannaWebDev" /></p>
 
 ______  
 
@@ -95,6 +66,41 @@ ______
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
  </p>
 
+
+______
+## Highlighted projects
+ <p align='right'> <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150"/></p>
+
+
+| Name (description)        | Tools               | Repo link           | Demo           |
+| ----------- | ------------------- | ------------------- | ------------------- |
+| **Polling App**    | *Svelte, Vite*      | [Repo](https://github.com/joannaWebDev/poll-app-react-node-mysql) | [Demo](https://ping-pong-club.netlify.app/) |
+| **Fashion editor's**    | *Gatsby & GraphQL,Netlify CMS*      | [Repo](https://example.com) | [Demo](https://mabel-gago-gatsby-cms.netlify.app/) |
+| **fetching from an API that has multiple page queries**    | *React, Tailwind*      | upon request | [Demo](https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/) |
+| ****VUE app** with a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.**    | *Vue*      | [Repo](https://github.com/joannaWebDev/vue-echart.js.git) | - |
+| **At a simple glance, you can see displayed on the map all your workouts which are logged in with -location, distance, time-.**    | *Vanilla JS, OOP, Geolocation*      | [Repo](https://github.com/joannaWebDev/mapty-map-your-workouts-oop.git ) | [Demo](https://mapty-map-your-workouts-oop.netlify.app/) |
+| **practicing *RECURSIVE FUNCTION* Write a production-ready function that sums the numbers in a file. The *function* will receive as *input the path to a file*. *Each line* of the file will contain either *a number or a path to another file*. For *each file*, output the *file path* and *the sum of the numbers* contained both directly in the file or in any of the sub-files listed (or their sub-files, etc).**    | *CRUD APP with NODE & REACT*      | upon request     | [Demo](https://crud-node-react-sum-files.herokuapp.com/) |
+| **You can see a *treemap chart model* and because 2 of the *bar charts* have similar designs and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the functionality of each chart.**    | **Echarts.js*      | [Repo](https://github.com/joannaWebDev/charts-vanillaJS.gi) | [Demo](https://charts-vanillajs.netlify.app/index.html) |
+| **display your portfolio, by *fetching from the Pixabay API* all the galleries, mapping it through *tags* and you also have a *repertoire page* where you sell different photography courses. The user can *add or delete products to the cart*.**    | *React*      | [Repo](https://github.com/joannaWebDev/james-brown-react-tostify-api.git) | [Demo](https://james-brown-react.netlify.app/) |
+| **a clean, easy-to-read, and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explain a little bit about the subjects you will teach, and display a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer**    | *HTML & SCSS*      | - | [Demo](https://joannawebdev.github.io/balmes-innova-desarrollo-web/) |
+| **Twitter**    | *Vue*      | [Repo](https://github.com/joannaWebDev/twotter-vue3.git) | [Demo](https://twottter-vue3.herokuapp.com/) |
+| **A progressive web application, built in this case with **REACT** that gives the user the feel of a real app without the need to download it from the App / Play Store. This here is a **weather app** that will give you the exact temperature at any given point of the world**    | *React,PWA*      | [Repo](https://github.com/joannaWebDev/weather-app-react-pwa.git") | [Demo](https://weather-app-react-and-pwa.netlify.app/) |
+
+    
+______
+## Other bits & pieces  
+
+* <p>Starting from scratch, built my first blog using <strong>REACT</strong> with a design that looks pleasant, crisp and modern in a single page application that is both fast and responsive. &#9758; <a href="https://joannawebdev.github.io/fashion-blog-react/" title="Fashion Blog with React" target="_blank">https://joannawebdev.github.io/fashion-blog-react</a></p>   
+* <p>Netflix homepage built entirely with <strong>BOOTSTRAP</strong>. A faithful replica of one of the most popular video streaming services. &#9758; <a href="https://joannawebdev.github.io/Netflix-with-Bootstrap/" title="Netflix landpage with Bootstrap" target="_blank">
+https://joannawebdev.github.io/Netflix-with-Bootstrap</a></p>
+* <p>Weather_app with <strong>JAVASCRIPT</strong> &#9758; https://joannawebdev.github.io/Weather_App/</p>
+
+______
+## **GitHub Pages**
+<p>Canada Sports Betting with <strong>JAVASCRIPT & JQUERY</strong> &#9758; https://joannawebdev.github.io/Canada-Sports-Betting/</p>
+
+## **Netlify Pages**
+<p>Psicólogos de calle with <strong>REACT</strong> &#9758; https://psicologxs-de-calle.netlify.app/ </p>
 
 ______
 
