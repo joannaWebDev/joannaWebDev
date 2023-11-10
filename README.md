@@ -5,10 +5,10 @@
  <h3 align='center'>My mojo: <q>A learn-by-doing attitude, high energy, and team player</q></h3>
 </header>
 
-<body>
+<div>
   <p>My expertise lies in harnessing the power of Vue and Typescript to create convenient, fast, and beautiful interfaces.
    My track record includes a multitude of successful projects, ranging from ground-up startups to optimizing and refactoring giant existing applications. As a Product Engineer, I am responsible for the development, design, and implementation of software solutions. I work across various aspects of the product lifecycle, encompassing conception, design, development, testing, deployment, and support.</p>
-</body>
+</div>
 
 ______
 
