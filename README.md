@@ -1,5 +1,7 @@
 <header >
  <h1 align='center'>Hi, I'm Joanna. </h1>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannaWebDev&label=Profile%20views&color=0e75b6&style=flat" alt="joannaWebDev" /> </p>
+
  <h2 align='center'>My mojo: <q>A learn-by-doing attitude, high energy, and team player</q>
  <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
 </header>
@@ -45,31 +47,6 @@ ______
 ## **Netlify Pages**
 <p>Psicólogos de calle with <strong>REACT</strong> &#9758; https://psicologxs-de-calle.netlify.app/ </p>
 
-______
-
-
-📊 **This Week I Spent My Time On:**
-
-```text
-Vue          9 hrs 34 mins   ████████████▒░░░░░░░░░░░░   44.80 %
-Jest         1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Typescript   7 hrs 6 mins    ██▒░░▒░░░░░░░░░░░░░░░░░░░   36.98 % 
-JavaScript   1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Node         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-```
-
-  
-______  
-
-📚 **My books** 📚 
-<p>
-  <img alt="TDD y Example" src="https://images-na.ssl-images-amazon.com/images/I/51WXI-aNGCL._SX397_BO1,204,203,200_.jpg" width="100" />
-  <span></span> <span></span>
-
-  <img alt="Extreme programming" src="https://m.media-amazon.com/images/I/51i3tpQh4uL._SX514_BO1,204,203,200_.jpg" width="100"/>
-  <span></span> <span></span>
- </p>
 ______  
 
 ## **TECH STACK**
@@ -129,7 +106,16 @@ ______
 * Teamwork
 ______
 
+📚 **My books** 📚 
+<p>
+  <img alt="TDD y Example" src="https://images-na.ssl-images-amazon.com/images/I/51WXI-aNGCL._SX397_BO1,204,203,200_.jpg" width="100" />
+  <span></span> <span></span>
+
+  <img alt="Extreme programming" src="https://m.media-amazon.com/images/I/51i3tpQh4uL._SX514_BO1,204,203,200_.jpg" width="100"/>
+  <span></span> <span></span>
+ </p>
 ______
+
 ## **Music for programming?** 🎧
 <p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow" target="_blank">Blues life</a></p>
 
