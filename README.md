@@ -1,9 +1,8 @@
 <header>
  <h1 align='center'>Hi, I'm Joanna. </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=joannaWebDev&label=Profile%20views&color=0e75b6&style=flat" alt="joannaWebDev" /> </p>
-
- <h2 align='center'>My mojo: <q>A learn-by-doing attitude, high energy, and team player</q>
- <p align='center'><a href="https://joannasmerea.com" title="Professional portfolio" target="_blank">https://joannasmerea.com</a></p>
+ <p align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=600&lines=Front-end+engineer" alt="Typing SVG" /></a></p>
+ <h3 align='center'>My mojo: <q>A learn-by-doing attitude, high energy, and team player</q></h3>
 </header>
 
 <body>
