@@ -21,6 +21,7 @@ ______
 ______  
 
 <details><summary><h2>My GitHub Trophy Collection</h2></summary>
+ 
  <p align="center">
  <img alig src="https://github-profile-trophy.vercel.app/?username=joannaWebDev&margin-w=8&column=4&title=MultipleLang,Experience,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues,Reviews&theme=darkhub&no-frame=true" alt="github trophies" />
  </p>
