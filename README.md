@@ -98,7 +98,6 @@ ______
 | **fetching from an API that has multiple page queries**    | *React, Tailwind*      | [Repo](https://github.com/joannaWebDev/colors_fetch-API_React-query_copy-to-clipboard) | [Demo](https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/) |
 | ****VUE app** with a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.**    | *Vue*      | [Repo](https://github.com/joannaWebDev/vue-echart.js.git) | - |
 | **At a simple glance, you can see displayed on the map all your workouts which are logged in with -location, distance, time-.**    | *Vanilla JS, OOP, Geolocation*      | [Repo](https://github.com/joannaWebDev/mapty-map-your-workouts-oop.git ) | [Demo](https://mapty-map-your-workouts-oop.netlify.app/) |
-| **practicing *RECURSIVE FUNCTION* Write a production-ready function that sums the numbers in a file. The *function* will receive as *input the path to a file*. *Each line* of the file will contain either *a number or a path to another file*. For *each file*, output the *file path* and *the sum of the numbers* contained both directly in the file or in any of the sub-files listed (or their sub-files, etc).**    | *CRUD APP with NODE & REACT*      | upon request     | [Demo](https://crud-node-react-sum-files.herokuapp.com/) |
 | **You can see a *treemap chart model* and because 2 of the *bar charts* have similar designs and set-up, I have re-factored the code so now we have a shared main.js and just a few lines on a different file, that defines the functionality of each chart.**    | **Echarts.js*      | [Repo](https://github.com/joannaWebDev/charts-vanillaJS.gi) | [Demo](https://charts-vanillajs.netlify.app/index.html) |
 | **display your portfolio, by *fetching from the Pixabay API* all the galleries, mapping it through *tags* and you also have a *repertoire page* where you sell different photography courses. The user can *add or delete products to the cart*.**    | *React*      | [Repo](https://github.com/joannaWebDev/james-brown-react-tostify-api.git) | [Demo](https://james-brown-react.netlify.app/) |
 | **a clean, easy-to-read, and navigate **landing page** in pure **HTML & SCSS** where you can present your course, explain a little bit about the subjects you will teach, and display a gallery with the current tutors and old alumni. The page has a slick look to it, no embellishing, straight to point and even a different way to display the menu bar which here is used as a footer**    | *HTML & SCSS*      | - | [Demo](https://joannawebdev.github.io/balmes-innova-desarrollo-web/) |
@@ -109,12 +108,11 @@ ______
 ______
 
 ## Interpersonal Skills
+* Teamwork
+* Proficient in communicating with team members, bosses, and clients
 * Adaptability
 * Accountability
-* Self-criticism
-* Proficient in communicating with team members, bosses, and clients
-* Good interpersonal skills
-* Teamwork
+* Growth mindset
 ______
 
 📚 **My books** 📚 
@@ -129,7 +127,7 @@ ______
 ______
 
 ## **Music for programming?** 🎧
-<p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow" target="_blank">Blues life</a></p>
+<p><a href="https://youtu.be/ZVQV-1Fzl3w" rel="nofollow" target="_blank">Classical music for Brain Power</a></p>
 
 
 
