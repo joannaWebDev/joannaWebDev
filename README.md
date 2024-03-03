@@ -67,6 +67,7 @@ ______
  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  
  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" style="height:20px" />  
   <img alt="ExpressJS" src="https://camo.githubusercontent.com/87d8d88ac087f77c5b56509373a2dd49e5439722d7ad59c3f39a577907053152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732532302d2532333430346435392e7376673f267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&amp;style=for-the-badge" style="height:20px" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-333333?style=flat&amp;logo=node" style="height:20px" />
  </p> 
    
  <p>
@@ -78,11 +79,11 @@ ______
  <p>
  <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" style="height:20px"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
+  <img alt="Adobe" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" style="height:20px"/>
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-333333?style=flat&amp;logo=adobe-illustrator" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-333333?style=flat&amp;logo=adobe-photoshop" />
   <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-333333?style=flat&amp;logo=adobe-indesign" />
-  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" style="height:20px"/>
  </p>
 
 -->
