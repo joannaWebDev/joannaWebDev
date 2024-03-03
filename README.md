@@ -32,7 +32,7 @@ ______
 <details><summary><h2>Languages and Tools I've Used</h2></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,html,css,bootstrap,tailwind,git,github,netlify,vercel,firebase,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,html,css,bootstrap,tailwind,git,github,netlify,vercel,firebase,vscode, node, angular&perline=6" />
 </p>
 <br><br>
 
