@@ -93,7 +93,7 @@ ______
 
 | Name (description)        | Tools               | Repo link           | Demo           |
 | ----------- | ------------------- | ------------------- | ------------------- |
-| **Polling App**    | *Svelte, Vite*      | [Repo](https://github.com/joannaWebDev/poll-app-react-node-mysql) | [Demo](https://ping-pong-club.netlify.app/) |
+| **Polling App**    | *React, Express.js*      | [Repo](https://github.com/joannaWebDev/poll-app-react-node-mysql) | - |
 | **Fashion editor's**    | *Gatsby & GraphQL,Netlify CMS*      | [Repo](https://example.com) | [Demo](https://mabel-gago-gatsby-cms.netlify.app/) |
 | **fetching from an API that has multiple page queries**    | *React, Tailwind*      | upon request | [Demo](https://colors-fetch-api-react-query-copy-to-clipboard.netlify.app/) |
 | ****VUE app** with a **graph** where they can show positive profit and profit lost, never showing the negative numbers & a **graph** that represents the possibility of a target hit in a specific month, where those possibilities are represented by 2 numbers in %.**    | *Vue*      | [Repo](https://github.com/joannaWebDev/vue-echart.js.git) | - |
