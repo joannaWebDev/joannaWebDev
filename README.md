@@ -109,8 +109,7 @@ ______
 ______
 
 ## Interpersonal Skills
-* Teamwork
-* Proficient in communicating with team members, bosses, and clients
+* Proficient in cross-team communication and collaboration
 * Adaptability
 * Accountability
 * Growth mindset
