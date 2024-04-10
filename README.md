@@ -6,8 +6,8 @@
 </header>
 
 <div>
-  <p>My expertise lies in harnessing the power of Vue and Typescript to create convenient, fast, and beautiful interfaces.
-   My track record includes a multitude of successful projects, ranging from ground-up startups to optimizing and refactoring giant existing applications. As a Product Engineer, I am responsible for the development, design, and implementation of software solutions. I work across various aspects of the product lifecycle, encompassing conception, design, development, testing, deployment, and support.</p>
+  <p>My expertise lies in harnessing the power of Vue and Typescript to create convenient, fast, and beautiful interfaces. In addition to my proficiency in Vue, I have extensive experience in React. I actively stay abreast of industry trends and best practices through LinkedIn Learning, constantly refining my skills. Furthermore, I consistently engage in personal projects, leveraging my knowledge to explore new concepts and technologies.</p>
+  <p> As a dedicated Product Engineer, I lead the development, design, and implementation of software solutions. My role encompasses various stages of the product lifecycle, including conception, design, development, testing, deployment, and ongoing support.</p>
 </div>
 
 ______
