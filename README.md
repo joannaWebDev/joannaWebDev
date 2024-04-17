@@ -12,10 +12,16 @@
 
 ______
 
+
+<h2>Open source contributions</h2>
+  <p><a href="https://github.com/grafana/grafana/pull/86058">Grafana: Fix A11y in AutoRefresh input field</a></p>
+
+______
+
 <details><summary><h2>My GitHub Stats and Streak</h2></summary>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&theme=react&show_icons=true&locale=en&layout=compact" alt="joannaWebDev" /></p>
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&count_private=true&theme=react"  alt="GitHub stats" /></p>
- <p align="center"><img src="https://streak-stats.demolab.com?user=joannaWebDev&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Joanna's GitHub streak stats" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&count_private=true&theme=react"  alt="GitHub stats" /></p>
+  <p align="center"><img src="https://streak-stats.demolab.com?user=joannaWebDev&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Joanna's GitHub streak stats" /></p>
 </details>
 
 ______  
