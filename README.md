@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Joanna's GitHub README</title>
-</head>
+
 <body>
 
 <h1 align="center">Hi, I'm Joanna</h1>
