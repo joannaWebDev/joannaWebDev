@@ -31,26 +31,6 @@ As a dedicated Product Engineer, I lead the development, design, and implementat
 
 <hr/>
 
-<h2>GitHub Stats and Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joannaWebDev&show_icons=true&count_private=true&theme=react" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=joannaWebDev&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/joannaWebDev" alt="GitHub Contribution Graph" />
-</p>
-
-<hr/>
-
 <h2>Open Source Contributions</h2>
 
 <ul>
@@ -97,6 +77,19 @@ As a dedicated Product Engineer, I lead the development, design, and implementat
     </tr>
   </tbody>
 </table>
+
+<hr/>
+
+<h2>GitHub Stats and Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/joannaWebDev" alt="GitHub Contribution Graph" />
+</p>
 
 <hr/>
 
