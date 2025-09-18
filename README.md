@@ -22,7 +22,7 @@
 <h2>About Me</h2>
 
 <p>
-My expertise lies in harnessing the power of Vue and Typescript to create convenient, fast, and beautiful interfaces. In addition to my proficiency in Vue, I have extensive experience in React. I actively stay abreast of industry trends and best practices through LinkedIn Learning, constantly refining my skills. Furthermore, I consistently engage in personal projects, leveraging my knowledge to explore new concepts and technologies.
+My expertise lies in harnessing the power of Vue, React and Typescript to create convenient, fast, and beautiful interfaces. I actively stay abreast of industry trends and best practices through LinkedIn Learning, Udemy courses, constantly refining my skills. Furthermore, I consistently engage in personal projects, leveraging my knowledge to explore new concepts and technologies.
 </p>
 
 <p>
