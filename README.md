@@ -50,7 +50,7 @@ As a dedicated Product Engineer, I lead the development, design, and implementat
 
 <hr/>
 
-<h2>Highlighted Projects</h2>
+<!-- <h2>Highlighted Projects</h2>
 
 <p align="center">
   <img src="https://github.com/joannaWebDev/media/blob/main/octocat.png?raw=true" width="150" alt="Projects"/>
@@ -78,7 +78,7 @@ As a dedicated Product Engineer, I lead the development, design, and implementat
   </tbody>
 </table>
 
-<hr/>
+<hr/> -->
 
 <!-- <h2>GitHub Stats and Streak</h2>
 
