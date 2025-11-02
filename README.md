@@ -80,18 +80,18 @@ As a dedicated Product Engineer, I lead the development, design, and implementat
 
 <hr/>
 
-<h2>GitHub Stats and Streak</h2>
+<!-- <h2>GitHub Stats and Streak</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joannaWebDev&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/joannaWebDev" alt="GitHub Contribution Graph" />
 </p>
 
-<hr/>
+<hr/> -->
 
 <h2>Interpersonal Skills</h2>
 
