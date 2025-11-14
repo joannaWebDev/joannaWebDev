@@ -104,7 +104,7 @@ As a dedicated Product Engineer, I lead the development, design, and implementat
 
 <hr/>
 
-<h2>Music for Programming 🎧</h2>
+<h2>Music 🎧</h2>
 
 <p><a href="https://youtu.be/ZVQV-1Fzl3w" target="_blank" rel="nofollow">Classical music for Brain Power</a></p>
 
